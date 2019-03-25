@@ -1,0 +1,343 @@
+term	sentence	class	how_much_emotion_is_conveyed
+abuse	Her husband often <b>abuses</b> alcohol.	metaphorical	the focus word conveys some emotion
+ascend	Inheritance may not <b>ascend</b> linearly.	metaphorical	the focus word conveys no emotion
+shot	He <b>shot</b> away at the men.	literal	the focus word conveys no emotion
+departed	The spaceship <b>departed</b> out into space.	literal	the focus word conveys no emotion
+blister	The Senator <b>blistered</b> the administration in his speech on Friday.	metaphorical	the focus word conveys some emotion
+improve	The tax cut will <b>improve</b> the economy.	literal	the focus word conveys no emotion
+circulate	She <b>circulates</b> among royalty.	metaphorical	the focus word conveys no emotion
+cloud	Their faces were <b>clouded</b> with sadness.	metaphorical	the focus word conveys some emotion
+impaired	The stroke <b>impaired</b> memories of her youth.	literal	the focus word conveys some emotion
+design	She <b>designed</b> to go far in the world of business.	metaphorical	the focus word conveys no emotion
+drain	Life in the camp <b>drained</b> him.	metaphorical	the focus word conveys some emotion
+drain	The exercise class <b>drains</b> me of energy.	metaphorical	the focus word conveys some emotion
+use up	One should not <b>use up</b> one's savings.	literal	the focus word conveys no emotion
+exhaust	We have <b>exhausted</b> the food supplies.	metaphorical	the focus word conveys some emotion
+have	Many of the laboratory animals <b>have</b> the trait.	literal	the focus word conveys no emotion
+fasten	They <b>fastened</b> various nicknames to each other.	metaphorical	the focus word conveys no emotion
+destroy	These events could <b>destroy</b> the balance of power.	literal	the focus word conveys some emotion
+fracture	This writer really <b>fractures</b> the language.	metaphorical	the focus word conveys some emotion
+infer	I <b>infer</b> you have not done your homework.	literal	the focus word conveys no emotion
+protect	This vaccine will <b>protect</b> you against infection.	literal	the focus word conveys some emotion
+gutter	Tears <b>guttered</b> down her face.	metaphorical	the focus word conveys some emotion
+lie	The fate of Bosnia <b>lies</b> in the hands of the West.	metaphorical	the focus word conveys no emotion
+lock	He <b>locked</b> his hands around her neck.	metaphorical	the focus word conveys some emotion
+together	They were <b>together</b> in embrace.	literal	the focus word conveys no emotion
+lock	He was <b>locked</b> in a laughing fit.	metaphorical	the focus word conveys some emotion
+peep	The new moon <b>peeped</b> through the tree tops.	metaphorical	the focus word conveys no emotion
+advance into	The hikers did not manage to <b>advance into</b> the dense forest.	literal	the focus word conveys no emotion
+affected	The cold <b>affected</b> her bones.	literal	the focus word conveys no emotion
+pierce	The scream <b>pierced</b> the night.	metaphorical	the focus word conveys some emotion
+invested	We <b>invested</b> money into the education of our children.	literal	the focus word conveys no emotion
+crowding	People were <b>crowding</b> out of the theater.	literal	the focus word conveys no emotion
+recapture	She could not <b>recapture</b> that feeling of happiness.	metaphorical	the focus word conveys some emotion
+change	She had to <b>change</b> her image to please the electorate in her home state.	literal	the focus word conveys no emotion
+moved	The tornado <b>moved</b> along the coast.	literal	the focus word conveys no emotion
+rip	The candidate <b>ripped</b> into his opponent mercilessly.	metaphorical	the focus word conveys some emotion
+disturb	She wanted to <b>disturb</b> his composure.	literal	the focus word conveys some emotion
+ruffle	This play is going to <b>ruffle</b> some people.	metaphorical	the focus word conveys some emotion
+sell	The French try to <b>sell</b> us their image as great lovers.	metaphorical	the focus word conveys no emotion
+shake	I couldn't <b>shake</b> the car that was following me.	metaphorical	the focus word conveys no emotion
+weakened	The bad news <b>weakened</b> her hopes.	literal	the focus word conveys some emotion
+shed	He <b>shed</b> his image as a pushy boss.	metaphorical	the focus word conveys no emotion
+shipwreck	You have <b>shipwrecked</b> my career.	metaphorical	the focus word conveys some emotion
+communicated	He <b>communicated</b> his disapproval with a dismissive hand gesture.	literal	the focus word conveys no emotion
+splash	The mountain was <b>splashed</b> with snow.	metaphorical	the focus word conveys no emotion
+stagger	She was <b>staggered</b> with bills after she tried to rebuild her house following the earthquake.	metaphorical	the focus word conveys some emotion
+stoop	I won't <b>stoop</b> to reading other people's mail.	metaphorical	the focus word conveys some emotion
+talk	Actions <b>talk</b> louder than words.	metaphorical	the focus word conveys no emotion
+tax	You are <b>taxing</b> my patience.	metaphorical	the focus word conveys some emotion
+displaced	The war <b>displaced</b> many people.	literal	the focus word conveys no emotion
+uproot	The vestiges of political democracy were soon uprooted.	metaphorical	the focus word conveys no emotion
+inflicted	The principal <b>inflicted</b> his rage on the students.	literal	the focus word conveys some emotion
+afflicted	He was <b>afflicted</b> with a terrible illness that killed him quickly.	literal	the focus word conveys some emotion
+waste	He <b>wasted</b> his inheritance on his insincere friends.	metaphorical	the focus word conveys some emotion
+wrestle	He <b>wrestled</b> all his life with his feeling of inferiority.	metaphorical	the focus word conveys some emotion
+pondered	I <b>pondered</b> this decision for years.	literal	the focus word conveys no emotion
+drinks	Her husband often <b>drinks</b> alcohol.	literal	the focus word conveys no emotion
+pass on	Inheritance may not <b>pass on</b> linearly.	literal	the focus word conveys no emotion
+blaze	He <b>blazed</b> away at the men.	metaphorical	the focus word conveys some emotion
+blaze	The spaceship <b>blazed</b> out into space.	metaphorical	the focus word conveys some emotion
+criticized	The Senator <b>criticized</b> the administration in his speech on Friday.	literal	the focus word conveys some emotion
+boost	The tax cut will <b>boost</b> the economy.	metaphorical	the focus word conveys no emotion
+appears	She <b>appears</b> among royalty.	literal	the focus word conveys no emotion
+marked	Their faces were <b>marked</b> with sadness.	literal	the focus word conveys some emotion
+cloud	The stroke <b>clouded</b> memories of her youth.	metaphorical	the focus word conveys some emotion
+intended	She <b>intended</b> to go far in the world of business.	literal	the focus word conveys no emotion
+weakened	Life in the camp <b>weakened</b> him.	literal	the focus word conveys some emotion
+depletes	The exercise class <b>depletes</b> me of energy.	literal	the focus word conveys some emotion
+exhaust	One should not <b>exhaust</b> one's savings.	metaphorical	the focus word conveys some emotion
+used up	We have <b>used up</b> the food supplies.	literal	the focus word conveys no emotion
+express	Many of the laboratory animals <b>express</b> the trait.	metaphorical	the focus word conveys no emotion
+gave	They <b>gave</b> various nicknames to each other.	literal	the focus word conveys no emotion
+fracture	These events could <b>fracture</b> the balance of power.	metaphorical	the focus word conveys some emotion
+misuses	This writer really <b>misuses</b> the language.	literal	the focus word conveys no emotion
+gather	I <b>gather</b> you have not done your homework.	metaphorical	the focus word conveys no emotion
+guard	This vaccine will <b>guard</b> you against infection.	metaphorical	the focus word conveys no emotion
+ran	Tears <b>ran</b> down her face.	literal	the focus word conveys no emotion
+is	The fate of Bosnia <b>is</b> in the hands of the West.	literal	the focus word conveys no emotion
+encircled	He <b>encircled</b> his hands around her neck.	literal	the focus word conveys no emotion
+lock	They were <b>locked</b> in embrace.	metaphorical	the focus word conveys some emotion
+overwhelmed	He was <b>overwhelmed</b> in a laughing fit.	literal	the focus word conveys some emotion
+appeared	The new moon <b>appeared</b> through the tree tops.	literal	the focus word conveys no emotion
+penetrate	The hikers did not manage to <b>penetrate</b> the dense forest.	metaphorical	the focus word conveys some emotion
+pierce	The cold <b>pierced</b> her bones.	metaphorical	the focus word conveys some emotion
+sounded in	The scream <b>sounded in</b> the night.	literal	the focus word conveys no emotion
+pour	We <b>poured</b> money into the education of our children.	metaphorical	the focus word conveys some emotion
+pour	People were <b>pouring</b> out of the theater.	metaphorical	the focus word conveys no emotion
+recall	She could not <b>recall</b> that feeling of happiness.	literal	the focus word conveys no emotion
+recast	She had to <b>recast</b> her image to please the electorate in her home state.	metaphorical	the focus word conveys no emotion
+rip	The tornado <b>ripped</b> along the coast.	metaphorical	the focus word conveys some emotion
+criticized	The candidate <b>criticized</b> into his opponent mercilessly.	literal	the focus word conveys some emotion
+ruffle	She wanted to <b>ruffle</b> his composure.	metaphorical	the focus word conveys some emotion
+disturb	This play is going to distrurb some people.	literal	the focus word conveys some emotion
+convince us of	The French try to <b>convince us of</b> their image as great lovers.	literal	the focus word conveys no emotion
+escape	I couldn't <b>escape</b> the car that was following me.	literal	the focus word conveys no emotion
+shake	The bad news <b>shook</b> her hopes.	metaphorical	the focus word conveys some emotion
+dispelled	He <b>dispelled</b> his image as a pushy boss.	literal	the focus word conveys some emotion
+ruined	You have <b>ruined</b> my career.	literal	the focus word conveys some emotion
+sign	He <b>signed</b> his disapproval with a dismissive hand gesture.	metaphorical	the focus word conveys some emotion
+spotted	The mountain was <b>spotted</b> with snow.	literal	the focus word conveys no emotion
+overwhelmed	She was <b>overwhelmed</b> with bills after she tried to rebuild her house following the earthquake.	literal	the focus word conveys some emotion
+condescend	I won't <b>condescend</b> to reading other people's mail.	literal	the focus word conveys no emotion
+communicate	Actions <b>communicate</b> louder than words.	literal	the focus word conveys no emotion
+straining	You are <b>straining</b> my patience.	literal	the focus word conveys some emotion
+uproot	The war <b>uprooted</b> many people.	metaphorical	the focus word conveys some emotion
+destroyed	The vestiges of political democracy were soon destroyed.	literal	the focus word conveys no emotion
+visit	The principal <b>visited</b> his rage on the students.	metaphorical	the focus word conveys some emotion
+visit	He was <b>visited</b> with a terrible illness that killed him quickly.	metaphorical	the focus word conveys no emotion
+squandered	He <b>squandered</b> his inheritance on his insincere friends.	literal	the focus word conveys some emotion
+dealt	He <b>dealt</b> all his life with his feeling of inferiority.	literal	the focus word conveys no emotion
+wrestle	I <b>wrestled</b> with this decision for years.	metaphorical	the focus word conveys some emotion
+push	The guy hanging around the school is <b>pushing</b> drugs.	metaphoric	the focus word conveys some emotion
+flood	The company planned to <b>flood</b> the market with tennis shoes.	metaphoric	the focus word conveys some emotion
+urged	He <b>urged</b> her to finish her doctorate.	literal	the focus word conveys some emotion
+leak	The news <b>leaked out</b> despite his secrecy.	metaphoric	the focus word conveys some emotion
+devour	Fire had <b>devoured</b> our home.	metaphoric	the focus word conveys some emotion
+shout	She tended to <b>shout</b> when speaking into a microphone.	literal	the focus word conveys no emotion
+stayed in	The event <b>stayed in</b> her memory.	literal	the focus word conveys no emotion
+raged	The boss <b>raged</b> when he heard of the resignation of the secretary.	literal	the focus word conveys some emotion
+bring	This may <b>bring</b> you in jail.	literal	the focus word conveys no emotion
+shower	He <b>showered</b> her with presents.	metaphoric	the focus word conveys some emotion
+melt	Her resistance <b>melted</b> under his charm.	metaphoric	the focus word conveys some emotion
+push	The liberal party <b>pushed</b> for reforms.	metaphoric	the focus word conveys some emotion
+vibrates	The oscillator <b>vibrates</b> about the correct frequency.	literal	the focus word conveys no emotion
+melt	Hundreds of actors were <b>melting</b> into the scene.	metaphoric	the focus word conveys some emotion
+flow	The crowd <b>flowed</b> out of the stadium.	metaphoric	the focus word conveys some emotion
+clings to	The dress <b>clings to</b> her beautiful figure.	literal	the focus word conveys no emotion
+attack	I <b>attacked</b> the problem as soon as I got out of bed.	metaphoric	the focus word conveys some emotion
+overpraised	The critics <b>overpraised</b> this Broadway production.	literal	the focus word conveys some emotion
+characterizes	The mess in his dorm room <b>characterizes</b> the student.	literal	the focus word conveys no emotion
+increased	The sudden fame <b>increased</b> her ego.	literal	the focus word conveys no emotion
+corrupt	You should never <b>corrupt</b> someone's mind.	literal	the focus word conveys some emotion
+crown	A weather vane <b>crowns</b> the building.	metaphoric	the focus word conveys no emotion
+juggle	They tried to <b>juggle</b> an account so as to hide a deficit.	metaphoric	the focus word conveys some emotion
+organize	They wanted to <b>organize</b> a theater production.	literal	the focus word conveys no emotion
+puff	The sudden fame <b>puffed</b> her ego.	metaphoric	the focus word conveys some emotion
+salute	A terrible stench <b>saluted</b> our nostrils.	metaphoric	the focus word conveys some emotion
+crawl	My skin <b>crawled</b> -- I was terrified.	metaphoric	the focus word conveys some emotion
+swaying	The flowers were <b>swaying</b> in the breeze.	literal	the focus word conveys no emotion
+were connected	The rooms <b>were connected</b>.	literal	the focus word conveys no emotion
+tops	A weather vane <b>tops</b> the building.	literal	the focus word conveys no emotion
+attracted	The current boom in the economy <b>attracted</b> many workers in from abroad.	literal	the focus word conveys no emotion
+square	He <b>squared</b> his shoulders.	metaphoric	the focus word conveys no emotion
+stumble	I <b>stumbled</b> across a long-lost cousin last night in a restaurant.	metaphoric	the focus word conveys some emotion
+stimulate	This could <b>stimulate</b> the debate on creationism.	literal	the focus word conveys some emotion
+decreased	The distinction between the two theories <b>decreased</b>.	literal	the focus word conveys no emotion
+corrupted	The society was <b>corrupted</b> by racism.	literal	the focus word conveys some emotion
+reflected	The moon <b>reflected</b> back at itself from the lake's surface.	literal	the focus word conveys no emotion
+complements	She <b>complements</b> her lectures with jokes.	literal	the focus word conveys no emotion
+be honest	I have to <b>be honest</b> with you.	literal	the focus word conveys no emotion
+incline	Their language <b>inclines</b> us to believe them.	metaphoric	the focus word conveys some emotion
+progress on	This young man knows how to <b>progress on</b> the social ladder.	literal	the focus word conveys no emotion
+selling	The guy hanging around the school is <b>selling</b> drugs.	literal	the focus word conveys no emotion
+hack	I cant <b>hack</b> it anymore.	metaphoric	the focus word conveys some emotion
+started on	I <b>started on</b> the problem as soon as I got out of bed.	literal	the focus word conveys no emotion
+capture	The painting seems to <b>capture</b> the essence of Spring.	metaphoric	the focus word conveys some emotion
+devour	She <b>devoured</b> his novels.	metaphoric	the focus word conveys some emotion
+shone	The sun <b>shone</b> down on us.	literal	the focus word conveys no emotion
+engaged	The professor <b>engaged</b> his students in the study of the Italian text.	literal	the focus word conveys no emotion
+removed	Her optimism <b>removed</b> these worries.	literal	the focus word conveys no emotion
+rush	The new teacher tends to <b>rush</b>.	literal	the focus word conveys no emotion
+glare	The sun <b>glared</b> down on us.	metaphoric	the focus word conveys some emotion
+labored	She <b>labored</b> for years to make a decent living.	literal	the focus word conveys some emotion
+moved	The crowd <b>moved</b> out of the stadium.	literal	the focus word conveys no emotion
+push	She is <b>pushing</b> fifty.	metaphoric	the focus word conveys some emotion
+provided	He <b>provided</b> her with presents.	literal	the focus word conveys no emotion
+mold	The dress <b>molds</b> her beautiful figure.	metaphoric	the focus word conveys some emotion
+ferment	Islam is <b>fermenting</b> Africa.	metaphoric	the focus word conveys some emotion
+level	I have to <b>level</b> with you.	metaphoric	the focus word conveys some emotion
+intrigue	This story will <b>intrigue</b> you.	literal	the focus word conveys some emotion
+amount	This idea will never <b>amount to</b> anything.	metaphoric	the focus word conveys no emotion
+want	This piano <b>wants</b> the attention of a competent tuner.	metaphoric	the focus word conveys some emotion
+summoned	He <b>summoned</b> the servant.	literal	the focus word conveys no emotion
+climb	This young man knows how to <b>climb</b> the social ladder.	metaphoric	the focus word conveys some emotion
+experienced	The ex-slave <b>experienced</b> freedom shortly before she died.	literal	the focus word conveys some emotion
+is oriented	The house <b>is oriented</b> north.	literal	the focus word conveys no emotion
+grab	This story will <b>grab</b> you.	metaphoric	the focus word conveys some emotion
+arouses	The ostentatious way of living of the rich <b>arouses</b> the hatred of the poor.	literal	the focus word conveys some emotion
+tended	The conversation <b>tended</b> towards politics.	literal	the focus word conveys no emotion
+arrested	The police <b>arrested</b> the drug ring after they were tipped off.	literal	the focus word conveys no emotion
+saddened	She was <b>saddened</b> by his refusal of her invitation.	literal	the focus word conveys some emotion
+push	The salesman is aggressively <b>pushing</b> the new computer model.	metaphoric	the focus word conveys some emotion
+match	The colors dont <b>match</b>.	literal	the focus word conveys no emotion
+line	Sorrow had <b>lined</b> his face.	metaphoric	the focus word conveys some emotion
+crush	She was <b>crushed</b> by his refusal of her invitation.	metaphoric	the focus word conveys some emotion
+salt	The rebels had <b>salted</b> the fields with mines and traps.	metaphoric	the focus word conveys some emotion
+back	Which horse are you <b>backing</b>.	metaphoric	the focus word conveys no emotion
+rejoice	Make the peoples hearts <b>rejoiced</b>.	literal	the focus word conveys some emotion
+misinterpret	Dont <b>misinterpret</b> my words.	literal	the focus word conveys no emotion
+suck	The current boom in the economy <b>sucked</b> many workers in from abroad.	metaphoric	the focus word conveys some emotion
+cope with	I cant <b>cope with</b> it anymore.	literal	the focus word conveys some emotion
+has	He always <b>has</b> a smile.	literal	the focus word conveys no emotion
+drown	I was <b>drowned in</b> work.	metaphoric	the focus word conveys some emotion
+level	They wanted to <b>level</b> criticism or charges at somebody.	metaphoric	the focus word conveys some emotion
+drown	She <b>drowned</b> her trouble in alcohol.	metaphoric	the focus word conveys some emotion
+dawn	The age of computers had <b>dawned</b>.	metaphoric	the focus word conveys some emotion
+grope	His mind <b>groped</b> to make the connection.	metaphoric	the focus word conveys some emotion
+eject	The ex-boxers job is to <b>eject</b> people who want to enter this private club.	literal	the focus word conveys some emotion
+persuades	Their language <b>persuades</b> us to believe them.	literal	the focus word conveys some emotion
+gravitate	The conversation <b>gravitated</b> towards politics.	metaphoric	the focus word conveys no emotion
+systematized	The government <b>systematized</b> the entire law into a code.	literal	the focus word conveys no emotion
+weakened	Her resistance <b>weakened</b> under his charm.	literal	the focus word conveys some emotion
+swim	My brain is <b>swimming</b> after the bottle of champagne.	metaphoric	the focus word conveys some emotion
+transformed	Braque <b>transformed</b> collage into oil.	literal	the focus word conveys some emotion
+approaching	She is <b>approaching</b> fifty.	literal	the focus word conveys no emotion
+silenced	The press was <b>silenced</b>.	literal	the focus word conveys some emotion
+visible	Sorrow was <b>visible</b> on the mother's face.	literal	the focus word conveys some emotion
+poison	You should never <b>poison</b> someone's mind.	metaphoric	the focus word conveys some emotion
+destroyed	Fire had <b>destroyed</b> our home.	literal	the focus word conveys no emotion
+infect	The society was <b>infected</b> by racism.	metaphoric	the focus word conveys some emotion
+dull	Middle age <b>dulled</b> her appetite for travel.	metaphoric	the focus word conveys some emotion
+float	The Republicans are <b>floating</b> the idea of a tax reform.	metaphoric	the focus word conveys some emotion
+look	The house <b>looks</b> north.	metaphoric	the focus word conveys no emotion
+harmonize	The colors dont <b>harmonize</b>.	metaphoric	the focus word conveys some emotion
+listens carefully to	The mother <b>listens carefully to</b> every word of her son on the stage.	literal	the focus word conveys some emotion
+swell	The mother <b>was swelling with</b> importance when she spoke of her son.	metaphoric	the focus word conveys some emotion
+falsify	They tried to <b>falsify</b> an account so as to hide a deficit.	literal	the focus word conveys no emotion
+posed	He <b>posed</b> his shoulders.	literal	the focus word conveys no emotion
+provoking	Islam is <b>provoking</b> Africa.	literal	the focus word conveys some emotion
+land	This may <b>land</b> you in jail.	metaphoric	the focus word conveys no emotion
+manage	She had to <b>manage</b> her job and her children.	literal	the focus word conveys no emotion
+blur	The distinction between the two theories <b>blurred</b>.	metaphoric	the focus word conveys some emotion
+overwhelmed by	I was <b>overwhelmed by</b> work.	literal	the focus word conveys some emotion
+juggle	She had to <b>juggle</b> her job and her children.	metaphoric	the focus word conveys some emotion
+communicate	The rooms <b>communicated</b>.	metaphoric	the focus word conveys some emotion
+relax	The rules <b>relaxed</b> after the new director arrived.	metaphoric	the focus word conveys some emotion
+appeared	Some nice results <b>appeared</b> from the study.	literal	the focus word conveys no emotion
+mount	They wanted to <b>mount</b> a theater production.	metaphoric	the focus word conveys some emotion
+discredits	His lack of interest in the project <b>discredits</b> him.	literal	the focus word conveys no emotion
+deflate	This event could <b>deflate</b> the currency.	metaphoric	the focus word conveys some emotion
+fuel	This could <b>fuel</b> the debate on creationism.	metaphoric	the focus word conveys some emotion
+reflect	The mess in his dorm room <b>reflects on</b> the student.	metaphoric	the focus word conveys no emotion
+discussing	The Republicans are <b>discussing</b> the idea of a tax reform.	literal	the focus word conveys no emotion
+matches up	This idea <b>matches up</b> with the other one.	literal	the focus word conveys no emotion
+nod	The flowers were <b>nodding</b> in the breeze.	metaphoric	the focus word conveys some emotion
+conveyed	The latest intelligence is <b>conveyed</b> to all command posts.	literal	the focus word conveys no emotion
+cheered	After a glass of wine he <b>cheered</b> up a bit.	literal	the focus word conveys some emotion
+buzz	This office is <b>buzzing</b> with activity.	metaphoric	the focus word conveys some emotion
+was disclosed	The news <b>was disclosed</b> despite his secrecy.	literal	the focus word conveys no emotion
+covered	The meat was <b>covered</b> in a fatty gravy.	literal	the focus word conveys no emotion
+wrinkled	Sorrow had <b>wrinkled</b> his face.	literal	the focus word conveys some emotion
+clap	The judge <b>clapped</b> him in jail.	metaphoric	the focus word conveys some emotion
+square	This idea <b>squares</b> with the other one.	metaphoric	the focus word conveys no emotion
+salt	She <b>salts</b> her lectures with jokes.	metaphoric	the focus word conveys some emotion
+reacts	The steering of my new car <b>reacts</b> to the slightest touch.	literal	the focus word conveys some emotion
+culminated	The speech <b>culminated</b> the meeting.	literal	the focus word conveys no emotion
+reduce	This event could <b>reduce</b> the currency.	literal	the focus word conveys no emotion
+breathe	Our new synthetic fabric <b>breathes</b> and is perfect for summer wear.	metaphoric	the focus word conveys some emotion
+filled	A terrible stench <b>filled</b> our nostrils.	literal	the focus word conveys no emotion
+increasing	Sales were <b>increasing</b> after prices were lowered.	literal	the focus word conveys no emotion
+address	They wanted to <b>address</b> criticism or charges at somebody.	literal	the focus word conveys no emotion
+breathe	He <b>breathed</b> new life into the old house.	metaphoric	the focus word conveys some emotion
+wallow	You should <b>wallow</b> in your success!	metaphoric	the focus word conveys some emotion
+climb	Sales were <b>climbing</b> after prices were lowered.	metaphoric	the focus word conveys some emotion
+plunge	The professor <b>plunged</b> his students into the study of the Italian text.	metaphoric	the focus word conveys some emotion
+tug	She <b>tugged</b> for years to make a decent living.	metaphoric	the focus word conveys some emotion
+map	Sorrow was <b>mapped</b> on the mother's face.	metaphoric	the focus word conveys some emotion
+prickled	My skin <b>prickled</b> -- I was terrified.	literal	the focus word conveys some emotion
+amused	The comedian <b>amused</b> the crowd.	literal	the focus word conveys some emotion
+taste	The ex-slave <b>tasted</b> freedom shortly before she died.	metaphoric	the focus word conveys some emotion
+inject	He <b>injected</b> new life into the performance.	metaphoric	the focus word conveys some emotion
+dismissed	The company <b>dismissed</b> him after many years of service.	literal	the focus word conveys no emotion
+translate	Braque <b>translated</b> collage into oil.	metaphoric	the focus word conveys no emotion
+delight	You should <b>delight</b> in your success!	literal	the focus word conveys some emotion
+instilled	He <b>instilled</b> new life into the old house.	literal	the focus word conveys some emotion
+bounce	The ex-boxers job is to <b>bounce</b> people who want to enter this private club.	metaphoric	the focus word conveys no emotion
+paste	He <b>pasted</b> his opponent.	metaphoric	the focus word conveys some emotion
+explode	The boss <b>exploded</b> when he heard of the resignation of the secretary.	metaphoric	the focus word conveys some emotion
+decreased	Middle age <b>decreased</b> her appetite for travel.	literal	the focus word conveys no emotion
+confused	My brain is <b>confused</b> after the bottle of champagne.	literal	the focus word conveys some emotion
+push	He <b>pushed</b> her to finish her doctorate.	metaphoric	the focus word conveys some emotion
+digest	The government <b>digested</b> the entire law into a code.	metaphoric	the focus word conveys no emotion
+campaigned	The liberal party <b>campaigned</b> for reforms.	literal	the focus word conveys some emotion
+drink	The mother <b>drinks in</b> every word of her son on the stage.	metaphoric	the focus word conveys some emotion
+suck	Mud was <b>sucking</b> at her feet.	metaphoric	the focus word conveys some emotion
+reduced	The new measures <b>reduced</b> the economy.	literal	the focus word conveys no emotion
+emerge	Some nice results <b>emerged</b> from the study.	metaphoric	the focus word conveys no emotion
+merging	Hundreds of actors were <b>merging</b> into the scene.	literal	the focus word conveys no emotion
+float	The government <b>floated</b> the ruble for a few months.	metaphoric	the focus word conveys no emotion
+betting on	Which horse are you <b>betting</b> on.	literal	the focus word conveys no emotion
+glare	The moon <b>glared</b> back at itself from the lake's surface.	metaphoric	the focus word conveys some emotion
+felt	The mother <b>felt</b> importance when she spoke of her son.	literal	the focus word conveys some emotion
+answer	The steering of my new car <b>answers</b> to the slightest touch.	metaphoric	the focus word conveys no emotion
+ignite	The ostentatious way of living of the rich <b>ignites</b> the hatred of the poor.	metaphoric	the focus word conveys some emotion
+flash	The latest intelligence is <b>flashed</b> to all command posts.	metaphoric	the focus word conveys some emotion
+believe	I cant <b>believe</b> this story.	literal	the focus word conveys no emotion
+shower	He was <b>showered</b> with praise.	metaphoric	the focus word conveys some emotion
+reflect	His lack of interest in the project <b>reflects badly on</b> him.	metaphoric	the focus word conveys some emotion
+moved	The dancer <b>moved</b> across the stage.	literal	the focus word conveys no emotion
+drift	Stock prices are <b>drifting</b> higher.	metaphoric	the focus word conveys no emotion
+discontented	The Middle East is <b>discontented</b>.	literal	the focus word conveys some emotion
+allowed fluctuation in	The government <b>allowed fluctuation in</b> the ruble for a few months.	literal	the focus word conveys no emotion
+whistle	Her optimism <b>whistled away</b> these worries.	metaphoric	the focus word conveys some emotion
+twist	Dont <b>twist</b> my words.	metaphoric	the focus word conveys some emotion
+buzz	He <b>buzzed</b> the servant.	metaphoric	the focus word conveys some emotion
+hunt	The oscillator <b>hunts</b> about the correct frequency.	metaphoric	the focus word conveys some emotion
+convulse	The comedian <b>convulsed</b> the crowd.	metaphoric	the focus word conveys some emotion
+promoting	The salesman is aggressively <b>promoting</b> the new computer model.	literal	the focus word conveys no emotion
+dawn	It <b>dawned on</b> him that she had betrayed him.	metaphoric	the focus word conveys some emotion
+steamroller	The new teacher tends to <b>steamroller</b>.	metaphoric	the focus word conveys some emotion
+swim	The meat was <b>swimming</b> in a fatty gravy.	metaphoric	the focus word conveys some emotion
+scattered	The rebels had <b>scattered</b> the fields with mines and traps.	literal	the focus word conveys no emotion
+passes air	Our new synthetic fabric <b>passes air</b> and is perfect for summer wear.	literal	the focus word conveys no emotion
+sow	You should not <b>sow</b> suspicion or beliefs.	metaphoric	the focus word conveys some emotion
+came	I <b>came</b> across a long-lost cousin last night in a restaurant.	literal	the focus word conveys no emotion
+enjoyed	She <b>enjoyed</b> his novels.	literal	the focus word conveys some emotion
+color	My personal feelings <b>color</b> my judgment in this case.	metaphoric	the focus word conveys some emotion
+crown	The speech <b>crowned</b> the meeting.	metaphoric	the focus word conveys some emotion
+gag	The press was <b>gagged</b>.	metaphoric	the focus word conveys some emotion
+float	The dancer <b>floated</b> across the stage.	metaphoric	the focus word conveys some emotion
+pulling	Mud was <b>pulling</b> at her feet.	literal	the focus word conveys no emotion
+engrave	The event <b>engraved itself into</b> her memory.	metaphoric	the focus word conveys some emotion
+buy	I cant <b>buy</b> this story.	metaphoric	the focus word conveys some emotion
+ferment	The Middle East is <b>fermenting</b>.	metaphoric	the focus word conveys some emotion
+added	He <b>added</b> new life into the performance.	literal	the focus word conveys no emotion
+requires	This piano <b>requires</b> the attention of a competent tuner.	literal	the focus word conveys no emotion
+dump	The company <b>dumped</b> him after many years of service.	metaphoric	the focus word conveys some emotion
+blast	She tended to <b>blast</b> when speaking into a microphone.	metaphoric	the focus word conveys some emotion
+tried	His mind <b>tried</b> to make the connection.	literal	the focus word conveys no emotion
+sounding	The kettle was <b>sounding</b>.	literal	the focus word conveys no emotion
+deflate	The new measures <b>deflated</b> the economy.	metaphoric	the focus word conveys some emotion
+occurred to	It <b>occurred to</b> him that she had betrayed him.	literal	the focus word conveys no emotion
+forgot	She <b>forgot</b> her trouble in alcohol.	literal	the focus word conveys no emotion
+puff	The critics <b>puffed up</b> this Broadway production.	metaphoric	the focus word conveys some emotion
+represent	The painting seems to <b>represent</b> the essence of Spring.	literal	the focus word conveys no emotion
+means	Im afraid this <b>means</b> trouble!	literal	the focus word conveys no emotion
+oversupply	The company planned to <b>oversupply</b> the market with tennis shoes.	literal	the focus word conveys no emotion
+spell	Im afraid this <b>spells</b> trouble!	metaphoric	the focus word conveys some emotion
+defeated	He <b>defeated</b> his opponent.	literal	the focus word conveys no emotion
+bustling	This office is <b>bustling</b> with activity.	literal	the focus word conveys some emotion
+becoming	Stock prices are <b>becoming</b> higher.	literal	the focus word conveys no emotion
+moderated	The rules <b>moderated</b> after the new director arrived.	literal	the focus word conveys no emotion
+instill	You should not <b>instill</b> suspicion or beliefs.	literal	the focus word conveys no emotion
+begun	The age of computers had <b>begun</b>.	literal	the focus word conveys no emotion
+lighten	After a glass of wine he <b>lightened</b> up a bit.	metaphoric	the focus word conveys some emotion
+lavished	He was <b>lavished</b> with praise.	literal	the focus word conveys some emotion
+result in	This idea will never <b>result in</b> anything.	literal	the focus word conveys no emotion
+glow	Make the peoples hearts <b>glow</b>.	metaphoric	the focus word conveys some emotion
+affect	My personal feelings <b>affect</b> my judgment in this case.	literal	the focus word conveys no emotion
+wear	He always <b>wears</b> a smile.	metaphoric	the focus word conveys some emotion
+smash	The police <b>smashed</b> the drug ring after they were tipped off.	metaphoric	the focus word conveys some emotion
+sing	The kettle was <b>singing</b>.	metaphoric	the focus word conveys some emotion
+put	The judge <b>put</b> him in jail.	literal	the focus word conveys no emotion

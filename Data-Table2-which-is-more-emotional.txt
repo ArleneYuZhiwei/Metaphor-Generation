@@ -1,0 +1,172 @@
+term1	sentencet1	classt1	term2	sentencet2	classt2	which_is_more_emotional
+abuse	Her husband often <b>abuses</b> alcohol.	metaphoric	drinks	Her husband often <b>drinks</b> alcohol.	literal	the focus word in the first sentence conveys more emotion
+ascend	Inheritance may not <b>ascend</b> linearly.	metaphoric	pass on	Inheritance may not <b>pass on</b> linearly.	literal	the focus word in the first sentence conveys more emotion
+shot	He <b>shot</b> away at the men.	literal	blaze	He <b>blazed</b> away at the men.	metaphoric	the focus word in the second sentence conveys more emotion
+departed	The spaceship <b>departed</b> out into space.	literal	blaze	The spaceship <b>blazed</b> out into space.	metaphoric	the focus word in the second sentence conveys more emotion
+blister	The Senator <b>blistered</b> the administration in his speech on Friday.	metaphoric	criticized	The Senator <b>criticized</b> the administration in his speech on Friday.	literal	the focus word in the first sentence conveys more emotion
+improve	The tax cut will <b>improve</b> the economy.	literal	boost	The tax cut will <b>boost</b> the economy.	metaphoric	the focus word in the second sentence conveys more emotion
+circulate	She <b>circulates</b> among royalty.	metaphoric	appears	She <b>appears</b> among royalty.	literal	the focus word in the first sentence conveys more emotion
+cloud	Their faces were <b>clouded</b> with sadness.	metaphoric	marked	Their faces were <b>marked</b> with sadness.	literal	the focus word in the first sentence conveys more emotion
+impaired	The stroke <b>impaired</b> memories of her youth.	literal	cloud	The stroke <b>clouded</b> memories of her youth.	metaphoric	the focus word in the second sentence conveys more emotion
+design	She <b>designed</b> to go far in the world of business.	metaphoric	intended	She <b>intended</b> to go far in the world of business.	literal	the focus word in the first sentence conveys more emotion
+drain	Life in the camp <b>drained</b> him.	metaphoric	weakened	Life in the camp <b>weakened</b> him.	literal	the focus word in the first sentence conveys more emotion
+drain	The exercise class <b>drains</b> me of energy.	metaphoric	depletes	The exercise class <b>depletes</b> me of energy.	literal	the focus word in the first sentence conveys more emotion
+use up	One should not <b>use up</b> one's savings.	literal	exhaust	One should not <b>exhaust</b> one's savings.	metaphoric	the focus word in the second sentence conveys more emotion
+exhaust	We have <b>exhausted</b> the food supplies.	metaphoric	used up	We have <b>used up</b> the food supplies.	literal	the focus word in the first sentence conveys more emotion
+have	Many of the laboratory animals <b>have</b> the trait.	literal	express	Many of the laboratory animals <b>express</b> the trait.	metaphoric	the focus word in the second sentence conveys more emotion
+fasten	They <b>fastened</b> various nicknames to each other.	metaphoric	gave	They <b>gave</b> various nicknames to each other.	literal	the focus word in the first sentence conveys more emotion
+destroy	These events could <b>destroy</b> the balance of power.	literal	fracture	These events could <b>fracture</b> the balance of power.	metaphoric	the focus word in the second sentence conveys more emotion
+fracture	This writer really <b>fractures</b> the language.	metaphoric	misuses	This writer really <b>misuses</b> the language.	literal	the focus word in the first sentence conveys more emotion
+infer	I <b>infer</b> you have not done your homework.	literal	gather	I <b>gather</b> you have not done your homework.	metaphoric	the focus words in the two sentences convey a similar degree of emotion
+protect	This vaccine will <b>protect</b> you against infection.	literal	guard	This vaccine will <b>guard</b> you against infection.	metaphoric	the focus word in the second sentence conveys more emotion
+gutter	Tears <b>guttered</b> down her face.	metaphoric	ran	Tears <b>ran</b> down her face.	literal	the focus word in the first sentence conveys more emotion
+lie	The fate of Bosnia <b>lies</b> in the hands of the West.	metaphoric	is	The fate of Bosnia <b>is</b> in the hands of the West.	literal	the focus word in the first sentence conveys more emotion
+lock	He <b>locked</b> his hands around her neck.	metaphoric	encircled	He <b>encircled</b> his hands around her neck.	literal	the focus word in the first sentence conveys more emotion
+together	They were <b>together</b> in embrace.	literal	lock	They were <b>locked</b> in embrace.	metaphoric	the focus word in the second sentence conveys more emotion
+lock	He was <b>locked</b> in a laughing fit.	metaphoric	overwhelmed	He was <b>overwhelmed</b> in a laughing fit.	literal	the focus word in the second sentence conveys more emotion
+peep	The new moon <b>peeped</b> through the tree tops.	metaphoric	appeared	The new moon <b>appeared</b> through the tree tops.	literal	the focus word in the first sentence conveys more emotion
+advance into	The hikers did not manage to <b>advance into</b> the dense forest.	literal	penetrate	The hikers did not manage to <b>penetrate</b> the dense forest.	metaphoric	the focus word in the second sentence conveys more emotion
+affected	The cold <b>affected</b> her bones.	literal	pierce	The cold <b>pierced</b> her bones.	metaphoric	the focus word in the second sentence conveys more emotion
+pierce	The scream <b>pierced</b> the night.	metaphoric	sounded in	The scream <b>sounded in</b> the night.	literal	the focus word in the first sentence conveys more emotion
+invested	We <b>invested</b> money into the education of our children.	literal	pour	We <b>poured</b> money into the education of our children.	metaphoric	the focus word in the second sentence conveys more emotion
+crowding	People were <b>crowding</b> out of the theater.	literal	pour	People were <b>pouring</b> out of the theater.	metaphoric	the focus word in the second sentence conveys more emotion
+recapture	She could not <b>recapture</b> that feeling of happiness.	metaphoric	recall	She could not <b>recall</b> that feeling of happiness.	literal	the focus word in the first sentence conveys more emotion
+change	She had to <b>change</b> her image to please the electorate in her home state.	literal	recast	She had to <b>recast</b> her image to please the electorate in her home state.	metaphoric	the focus word in the second sentence conveys more emotion
+moved	The tornado <b>moved</b> along the coast.	literal	rip	The tornado <b>ripped</b> along the coast.	metaphoric	the focus word in the second sentence conveys more emotion
+rip	The candidate <b>ripped</b> into his opponent mercilessly.	metaphoric	criticized	The candidate <b>criticized</b> into his opponent mercilessly.	literal	the focus word in the first sentence conveys more emotion
+disturb	She wanted to <b>disturb</b> his composure.	literal	ruffle	She wanted to <b>ruffle</b> his composure.	metaphoric	the focus word in the second sentence conveys more emotion
+ruffle	This play is going to <b>ruffle</b> some people.	metaphoric	disturb	This play is going to distrurb some people.	literal	the focus word in the first sentence conveys more emotion
+sell	The French try to <b>sell</b> us their image as great lovers.	metaphoric	convince us of	The French try to <b>convince us of</b> their image as great lovers.	literal	the focus word in the second sentence conveys more emotion
+shake	I couldn't <b>shake</b> the car that was following me.	metaphoric	escape	I couldn't <b>escape</b> the car that was following me.	literal	the focus word in the first sentence conveys more emotion
+weakened	The bad news <b>weakened</b> her hopes.	literal	shake	The bad news <b>shook</b> her hopes.	metaphoric	the focus word in the second sentence conveys more emotion
+shed	He <b>shed</b> his image as a pushy boss.	metaphoric	dispelled	He <b>dispelled</b> his image as a pushy boss.	literal	the focus word in the second sentence conveys more emotion
+shipwreck	You have <b>shipwrecked</b> my career.	metaphoric	ruined	You have <b>ruined</b> my career.	literal	the focus word in the first sentence conveys more emotion
+communicated	He <b>communicated</b> his disapproval with a dismissive hand gesture.	literal	sign	He <b>signed</b> his disapproval with a dismissive hand gesture.	metaphoric	the focus words in the two sentences convey a similar degree of emotion
+splash	The mountain was <b>splashed</b> with snow.	metaphoric	spotted	The mountain was <b>spotted</b> with snow.	literal	the focus word in the first sentence conveys more emotion
+stagger	She was <b>staggered</b> with bills after she tried to rebuild her house following the earthquake.	metaphoric	overwhelmed	She was <b>overwhelmed</b> with bills after she tried to rebuild her house following the earthquake.	literal	the focus words in the two sentences convey a similar degree of emotion
+stoop	I won't <b>stoop</b> to reading other people's mail.	metaphoric	condescend	I won't <b>condescend</b> to reading other people's mail.	literal	the focus word in the second sentence conveys more emotion
+talk	Actions <b>talk</b> louder than words.	metaphoric	communicate	Actions <b>communicate</b> louder than words.	literal	the focus words in the two sentences convey a similar degree of emotion
+tax	You are <b>taxing</b> my patience.	metaphoric	straining	You are <b>straining</b> my patience.	literal	the focus words in the two sentences convey a similar degree of emotion
+displaced	The war <b>displaced</b> many people.	literal	uproot	The war <b>uprooted</b> many people.	metaphoric	the focus word in the second sentence conveys more emotion
+uproot	The vestiges of political democracy were soon uprooted.	metaphoric	destroyed	The vestiges of political democracy were soon destroyed.	literal	the focus word in the second sentence conveys more emotion
+inflicted	The principal <b>inflicted</b> his rage on the students.	literal	visit	The principal <b>visited</b> his rage on the students.	metaphoric	the focus word in the first sentence conveys more emotion
+afflicted	He was <b>afflicted</b> with a terrible illness that killed him quickly.	literal	visit	He was <b>visited</b> with a terrible illness that killed him quickly.	metaphoric	the focus word in the first sentence conveys more emotion
+waste	He <b>wasted</b> his inheritance on his insincere friends.	metaphoric	squandered	He <b>squandered</b> his inheritance on his insincere friends.	literal	the focus word in the second sentence conveys more emotion
+wrestle	He <b>wrestled</b> all his life with his feeling of inferiority.	metaphoric	dealt	He <b>dealt</b> all his life with his feeling of inferiority.	literal	the focus word in the first sentence conveys more emotion
+pondered	I <b>pondered</b> this decision for years.	literal	wrestle	I <b>wrestled</b> with this decision for years.	metaphoric	the focus word in the second sentence conveys more emotion
+amount	This idea will never <b>amount to</b> anything.	metaphoric	result	This idea will never <b>result in</b> anything.	literal	the focus words in the two sentences convey a similar degree of emotion
+answer	The steering of my new car <b>answers</b> to the slightest touch.	metaphoric	react	The steering of my new car <b>reacts</b> to the slightest touch.	literal	the focus word in the first sentence conveys more emotion
+attack	I <b>attacked</b> the problem as soon as I got out of bed.	metaphoric	start	I <b>started on</b> the problem as soon as I got out of bed.	literal	the focus word in the first sentence conveys more emotion
+shout	She tended to <b>shout</b> when speaking into a microphone.	literal	blast	She tended to <b>blast</b> when speaking into a microphone.	metaphoric	the focus word in the second sentence conveys more emotion
+blur	The distinction between the two theories <b>blurred</b>.	metaphoric	decrease	The distinction between the two theories <b>decreased</b>.	literal	the focus word in the first sentence conveys more emotion
+breathe	Our new synthetic fabric <b>breathes</b> and is perfect for summer wear.	metaphoric	pass air	Our new synthetic fabric <b>passes air</b> and is perfect for summer wear.	literal	the focus word in the first sentence conveys more emotion
+breathe	He <b>breathed</b> new life into the old house.	metaphoric	instil	He <b>instilled</b> new life into the old house.	literal	the focus word in the first sentence conveys more emotion
+summon	He <b>summoned</b> the servant.	literal	buzz	He <b>buzzed</b> the servant.	metaphoric	the focus word in the first sentence conveys more emotion
+buzz	This office is <b>buzzing</b> with activity.	metaphoric	bustle	This office is <b>bustling</b> with activity.	literal	the focus words in the two sentences convey a similar degree of emotion
+clap	The judge <b>clapped</b> him in jail.	metaphoric	put	The judge <b>put</b> him in jail.	literal	the focus word in the first sentence conveys more emotion
+climb	This young man knows how to <b>climb</b> the social ladder.	metaphoric	progress	This young man knows how to <b>progress on</b> the social ladder.	literal	the focus word in the first sentence conveys more emotion
+climb	Sales were <b>climbing</b> after prices were lowered.	metaphoric	increase	Sales were <b>increasing</b> after prices were lowered.	literal	the focus word in the first sentence conveys more emotion
+affect	My personal feelings <b>affect</b> my judgment in this case.	literal	color	My personal feelings <b>color</b> my judgment in this case.	metaphoric	the focus word in the second sentence conveys more emotion
+connect	The rooms <b>were connected</b>.	literal	communicate	The rooms <b>communicated</b>.	metaphoric	the focus word in the second sentence conveys more emotion
+convulse	The comedian <b>convulsed</b> the crowd.	metaphoric	amuse	The comedian <b>amused</b> the crowd.	literal	the focus word in the first sentence conveys more emotion
+crown	The speech <b>crowned</b> the meeting.	metaphoric	culminate	The speech <b>culminated</b> the meeting.	literal	the focus word in the first sentence conveys more emotion
+crown	A weather vane <b>crowns</b> the building.	metaphoric	top	A weather vane <b>tops</b> the building.	literal	the focus word in the first sentence conveys more emotion
+sadden	She was <b>saddened</b> by his refusal of her invitation.	literal	crush	She was <b>crushed</b> by his refusal of her invitation.	metaphoric	the focus word in the second sentence conveys more emotion
+occur	It <b>occurred to</b> him that she had betrayed him.	literal	dawn	It <b>dawned on</b> him that she had betrayed him.	metaphoric	the focus word in the second sentence conveys more emotion
+begin	The age of computers had <b>begun</b>.	literal	dawn	The age of computers had <b>dawned</b>.	metaphoric	the focus word in the second sentence conveys more emotion
+reduce	The new measures <b>reduced</b> the economy.	literal	deflate	The new measures <b>deflated</b> the economy.	metaphoric	the focus word in the second sentence conveys more emotion
+devour	Fire had <b>devoured</b> our home.	metaphoric	destroy	Fire had <b>destroyed</b> our home.	literal	the focus word in the first sentence conveys more emotion
+enjoy	She <b>enjoyed</b> his novels.	literal	devour	She <b>devoured</b> his novels.	metaphoric	the focus word in the second sentence conveys more emotion
+systematize	The government <b>systematized</b> the entire law into a code.	literal	digest	The government <b>digested</b> the entire law into a code.	metaphoric	the focus word in the second sentence conveys more emotion
+drift	Stock prices are <b>drifting</b> higher.	metaphoric	become	Stock prices are <b>becoming</b> higher.	literal	the focus word in the first sentence conveys more emotion
+drink	The mother <b>drinks in</b> every word of her son on the stage.	metaphoric	listen carefully	The mother <b>listens carefully to</b> every word of her son on the stage.	literal	the focus word in the first sentence conveys more emotion
+overwhelm	I was <b>overwhelmed by</b> work.	literal	drown	I was <b>drowned in</b> work.	metaphoric	the focus word in the second sentence conveys more emotion
+forget	She <b>forgot</b> her trouble in alcohol.	literal	drown	She <b>drowned</b> her trouble in alcohol.	metaphoric	the focus word in the second sentence conveys more emotion
+decrease	Middle age <b>decreased</b> her appetite for travel.	literal	dull	Middle age <b>dulled</b> her appetite for travel.	metaphoric	the focus word in the second sentence conveys more emotion
+dismiss	The company <b>dismissed</b> him after many years of service.	literal	dump	The company <b>dumped</b> him after many years of service.	metaphoric	the focus word in the second sentence conveys more emotion
+emerge	Some nice results <b>emerged</b> from the study.	metaphoric	appear	Some nice results <b>appeared</b> from the study.	literal	the focus word in the first sentence conveys more emotion
+stay	The event <b>stayed in</b> her memory.	literal	engrave	The event <b>engraved itself into</b> her memory.	metaphoric	the focus word in the second sentence conveys more emotion
+explode	The boss <b>exploded</b> when he heard of the resignation of the secretary.	metaphoric	rage	The boss <b>raged</b> when he heard of the resignation of the secretary.	literal	the focus word in the first sentence conveys more emotion
+discontent	The Middle East is <b>discontented</b>.	literal	ferment	The Middle East is <b>fermenting</b>.	metaphoric	the focus word in the second sentence conveys more emotion
+convey	The latest intelligence is <b>conveyed</b> to all command posts.	literal	flash	The latest intelligence is <b>flashed</b> to all command posts.	metaphoric	the focus word in the second sentence conveys more emotion
+float	The government <b>floated</b> the ruble for a few months.	metaphoric	allow fluctuation	The government <b>allowed fluctuation in</b> the ruble for a few months.	literal	the focus word in the first sentence conveys more emotion
+float	The dancer <b>floated</b> across the stage.	metaphoric	move	The dancer <b>moved</b> across the stage.	literal	the focus word in the first sentence conveys more emotion
+discuss	The Republicans are <b>discussing</b> the idea of a tax reform.	literal	float	The Republicans are <b>floating</b> the idea of a tax reform.	metaphoric	the focus word in the second sentence conveys more emotion
+flow	The crowd <b>flowed</b> out of the stadium.	metaphoric	move	The crowd <b>moved</b> out of the stadium.	literal	the focus word in the first sentence conveys more emotion
+silence	The press was <b>silenced</b>.	literal	gag	The press was <b>gagged</b>.	metaphoric	the focus word in the second sentence conveys more emotion
+shine	The sun <b>shone</b> down on us.	literal	glare	The sun <b>glared</b> down on us.	metaphoric	the focus word in the second sentence conveys more emotion
+reflect	The moon <b>reflected</b> back at itself from the lake's surface.	literal	glare	The moon <b>glared</b> back at itself from the lake's surface.	metaphoric	the focus word in the second sentence conveys more emotion
+grab	This story will <b>grab</b> you.	metaphoric	intrigue	This story will <b>intrigue</b> you.	literal	the focus word in the first sentence conveys more emotion
+gravitate	The conversation <b>gravitated</b> towards politics.	metaphoric	tend	The conversation <b>tended</b> towards politics.	literal	the focus word in the first sentence conveys more emotion
+try	His mind <b>tried</b> to make the connection.	literal	grope	His mind <b>groped</b> to make the connection.	metaphoric	the focus word in the second sentence conveys more emotion
+vibrate	The oscillator <b>vibrates</b> about the correct frequency.	literal	hunt	The oscillator <b>hunts</b> about the correct frequency.	metaphoric	the focus word in the second sentence conveys more emotion
+ignite	The ostentatious way of living of the rich <b>ignites</b> the hatred of the poor.	metaphoric	arouse	The ostentatious way of living of the rich <b>arouses</b> the hatred of the poor.	literal	the focus word in the first sentence conveys more emotion
+incline	Their language <b>inclines</b> us to believe them.	metaphoric	persuade	Their language <b>persuades</b> us to believe them.	literal	the focus word in the second sentence conveys more emotion
+add	He <b>added</b> new life into the performance.	literal	inject	He <b>injected</b> new life into the performance.	metaphoric	the focus word in the second sentence conveys more emotion
+juggle	She had to <b>juggle</b> her job and her children.	metaphoric	manage	She had to <b>manage</b> her job and her children.	literal	the focus word in the first sentence conveys more emotion
+bring	This may <b>bring</b> you in jail.	literal	land	This may <b>land</b> you in jail.	metaphoric	the focus word in the second sentence conveys more emotion
+leak	The news <b>leaked out</b> despite his secrecy.	metaphoric	disclose	The news <b>was disclosed</b> despite his secrecy.	literal	the focus word in the first sentence conveys more emotion
+level	I have to <b>level</b> with you.	metaphoric	be honest	I have to <b>be honest</b> with you.	literal	the focus word in the first sentence conveys more emotion
+wrinkle	Sorrow had <b>wrinkled</b> his face.	literal	line	Sorrow had <b>lined</b> his face.	metaphoric	the focus words in the two sentences convey a similar degree of emotion
+orient	The house <b>is oriented</b> north.	literal	look	The house <b>looks</b> north.	metaphoric	the focus word in the first sentence conveys more emotion
+map	Sorrow was <b>mapped</b> on the mother's face.	metaphoric	visible	Sorrow was <b>visible</b> on the mother's face.	literal	the focus word in the first sentence conveys more emotion
+melt	Her resistance <b>melted</b> under his charm.	metaphoric	weaken	Her resistance <b>weakened</b> under his charm.	literal	the focus word in the first sentence conveys more emotion
+melt	Hundreds of actors were <b>melting</b> into the scene.	metaphoric	merge	Hundreds of actors were <b>merging</b> into the scene.	literal	the focus word in the first sentence conveys more emotion
+mold	The dress <b>molds</b> her beautiful figure.	metaphoric	cling	The dress <b>clings to</b> her beautiful figure.	literal	the focus word in the second sentence conveys more emotion
+nod	The flowers were <b>nodding</b> in the breeze.	metaphoric	sway	The flowers were <b>swaying</b> in the breeze.	literal	the focus words in the two sentences convey a similar degree of emotion
+defeat	He <b>defeated</b> his opponent.	literal	paste	He <b>pasted</b> his opponent.	metaphoric	the focus word in the second sentence conveys more emotion
+engage	The professor <b>engaged</b> his students in the study of the Italian text.	literal	plunge	The professor <b>plunged</b> his students into the study of the Italian text.	metaphoric	the focus word in the second sentence conveys more emotion
+puff	The critics <b>puffed up</b> this Broadway production.	metaphoric	overpraise	The critics <b>overpraised</b> this Broadway production.	literal	the focus word in the first sentence conveys more emotion
+puff	The sudden fame <b>puffed</b> her ego.	metaphoric	increase	The sudden fame <b>increased</b> her ego.	literal	the focus word in the first sentence conveys more emotion
+promote	The salesman is aggressively <b>promoting</b> the new computer model.	literal	push	The salesman is aggressively <b>pushing</b> the new computer model.	metaphoric	the focus word in the second sentence conveys more emotion
+approach	She is <b>approaching</b> fifty.	literal	push	She is <b>pushing</b> fifty.	metaphoric	the focus word in the second sentence conveys more emotion
+push	The guy hanging around the school is <b>pushing</b> drugs.	metaphoric	sell	The guy hanging around the school is <b>selling</b> drugs.	literal	the focus word in the first sentence conveys more emotion
+campaign	The liberal party <b>campaigned</b> for reforms.	literal	push	The liberal party <b>pushed</b> for reforms.	metaphoric	the focus word in the second sentence conveys more emotion
+push	He <b>pushed</b> her to finish her doctorate.	metaphoric	urge	He <b>urged</b> her to finish her doctorate.	literal	the focus word in the first sentence conveys more emotion
+reflect	The mess in his dorm room <b>reflects on</b> the student.	metaphoric	characterize	The mess in his dorm room <b>characterizes</b> the student.	literal	the focus word in the first sentence conveys more emotion
+discredit	His lack of interest in the project <b>discredits</b> him.	literal	reflect	His lack of interest in the project <b>reflects badly on</b> him.	metaphoric	the focus word in the first sentence conveys more emotion
+moderate	The rules <b>moderated</b> after the new director arrived.	literal	relax	The rules <b>relaxed</b> after the new director arrived.	metaphoric	the focus word in the second sentence conveys more emotion
+complement	She <b>complements</b> her lectures with jokes.	literal	salt	She <b>salts</b> her lectures with jokes.	metaphoric	the focus word in the second sentence conveys more emotion
+scatter	The rebels had <b>scattered</b> the fields with mines and traps.	literal	salt	The rebels had <b>salted</b> the fields with mines and traps.	metaphoric	the focus word in the second sentence conveys more emotion
+salute	A terrible stench <b>saluted</b> our nostrils.	metaphoric	fill	A terrible stench <b>filled</b> our nostrils.	literal	the focus word in the first sentence conveys more emotion
+shower	He was <b>showered</b> with praise.	metaphoric	lavish	He was <b>lavished</b> with praise.	literal	the focus word in the second sentence conveys more emotion
+shower	He <b>showered</b> her with presents.	metaphoric	provide	He <b>provided</b> her with presents.	literal	the focus word in the first sentence conveys more emotion
+sound	The kettle was <b>sounding</b>.	literal	sing	The kettle was <b>singing</b>.	metaphoric	the focus word in the second sentence conveys more emotion
+arrest	The police <b>arrested</b> the drug ring after they were tipped off.	literal	smash	The police <b>smashed</b> the drug ring after they were tipped off.	metaphoric	the focus word in the second sentence conveys more emotion
+square	He <b>squared</b> his shoulders.	metaphoric	pose	He <b>posed</b> his shoulders.	literal	the focus word in the first sentence conveys more emotion
+steamroller	The new teacher tends to <b>steamroller</b>.	metaphoric	rush	The new teacher tends to <b>rush</b>.	literal	the focus word in the first sentence conveys more emotion
+come	I <b>came</b> across a long-lost cousin last night in a restaurant.	literal	stumble	I <b>stumbled</b> across a long-lost cousin last night in a restaurant.	metaphoric	the focus word in the second sentence conveys more emotion
+suck	Mud was <b>sucking</b> at her feet.	metaphoric	pull	Mud was <b>pulling</b> at her feet.	literal	the focus word in the first sentence conveys more emotion
+attract	The current boom in the economy <b>attracted</b> many workers in from abroad.	literal	suck	The current boom in the economy <b>sucked</b> many workers in from abroad.	metaphoric	the focus word in the second sentence conveys more emotion
+feel	The mother <b>felt</b> importance when she spoke of her son.	literal	swell	The mother <b>was swelling with</b> importance when she spoke of her son.	metaphoric	the focus word in the second sentence conveys more emotion
+cover	The meat was <b>covered</b> in a fatty gravy.	literal	swim	The meat was <b>swimming</b> in a fatty gravy.	metaphoric	the focus word in the second sentence conveys more emotion
+confuse	My brain is <b>confused</b> after the bottle of champagne.	literal	swim	My brain is <b>swimming</b> after the bottle of champagne.	metaphoric	the focus word in the second sentence conveys more emotion
+experience	The ex-slave <b>experienced</b> freedom shortly before she died.	literal	taste	The ex-slave <b>tasted</b> freedom shortly before she died.	metaphoric	the focus word in the second sentence conveys more emotion
+translate	Braque <b>translated</b> collage into oil.	metaphoric	transform	Braque <b>transformed</b> collage into oil.	literal	the focus word in the second sentence conveys more emotion
+tug	She <b>tugged</b> for years to make a decent living.	metaphoric	labor	She <b>labored</b> for years to make a decent living.	literal	the focus word in the second sentence conveys more emotion
+want	This piano <b>wants</b> the attention of a competent tuner.	metaphoric	require	This piano <b>requires</b> the attention of a competent tuner.	literal	the focus word in the second sentence conveys more emotion
+wear	He always <b>wears</b> a smile.	metaphoric	have	He always <b>has</b> a smile.	literal	the focus word in the first sentence conveys more emotion
+remove	Her optimism <b>removed</b> these worries.	literal	whistle	Her optimism <b>whistled away</b> these worries.	metaphoric	the focus word in the second sentence conveys more emotion
+bet	Which horse are you <b>betting</b> on.	literal	back	Which horse are you <b>backing</b>.	metaphoric	the focus words in the two sentences convey a similar degree of emotion
+eject	The ex-boxers job is to <b>eject</b> people who want to enter this private club.	literal	bounce	The ex-boxers job is to <b>bounce</b> people who want to enter this private club.	metaphoric	the focus word in the second sentence conveys more emotion
+buy	I cant <b>buy</b> this story.	metaphoric	believe	I cant <b>believe</b> this story.	literal	the focus word in the first sentence conveys more emotion
+represent	The painting seems to <b>represent</b> the essence of Spring.	literal	capture	The painting seems to <b>capture</b> the essence of Spring.	metaphoric	the focus word in the second sentence conveys more emotion
+prickle	My skin <b>prickled</b> -- I was terrified.	literal	crawl	My skin <b>crawled</b> -- I was terrified.	metaphoric	the focus word in the second sentence conveys more emotion
+deflate	This event could <b>deflate</b> the currency.	metaphoric	reduce	This event could <b>reduce</b> the currency.	literal	the focus word in the first sentence conveys more emotion
+ferment	Islam is <b>fermenting</b> Africa.	metaphoric	provoke	Islam is <b>provoking</b> Africa.	literal	the focus word in the first sentence conveys more emotion
+flood	The company planned to <b>flood</b> the market with tennis shoes.	metaphoric	oversupply	The company planned to <b>oversupply</b> the market with tennis shoes.	literal	the focus word in the first sentence conveys more emotion
+stimulate	This could <b>stimulate</b> the debate on creationism.	literal	fuel	This could <b>fuel</b> the debate on creationism.	metaphoric	the focus word in the second sentence conveys more emotion
+rejoice	Make the peoples hearts <b>rejoiced</b>.	literal	glow	Make the peoples hearts <b>glow</b>.	metaphoric	the focus word in the second sentence conveys more emotion
+hack	I cant <b>hack</b> it anymore.	metaphoric	cope	I cant <b>cope with</b> it anymore.	literal	the focus word in the first sentence conveys more emotion
+harmonize	The colors dont <b>harmonize</b>.	metaphoric	match	The colors dont <b>match</b>.	literal	the focus word in the first sentence conveys more emotion
+infect	The society was <b>infected</b> by racism.	metaphoric	corrupt	The society was <b>corrupted</b> by racism.	literal	the focus word in the first sentence conveys more emotion
+juggle	They tried to <b>juggle</b> an account so as to hide a deficit.	metaphoric	falsify	They tried to <b>falsify</b> an account so as to hide a deficit.	literal	the focus word in the first sentence conveys more emotion
+address	They wanted to <b>address</b> criticism or charges at somebody.	literal	level	They wanted to <b>level</b> criticism or charges at somebody.	metaphoric	the focus word in the second sentence conveys more emotion
+cheer	After a glass of wine he <b>cheered</b> up a bit.	literal	lighten	After a glass of wine he <b>lightened</b> up a bit.	metaphoric	the focus word in the second sentence conveys more emotion
+organize	They wanted to <b>organize</b> a theater production.	literal	mount	They wanted to <b>mount</b> a theater production.	metaphoric	the focus word in the second sentence conveys more emotion
+poison	You should never <b>poison</b> someone's mind.	metaphoric	corrupt	You should never <b>corrupt</b> someone's mind.	literal	the focus word in the first sentence conveys more emotion
+sow	You should not <b>sow</b> suspicion or beliefs.	metaphoric	instil	You should not <b>instill</b> suspicion or beliefs.	literal	the focus word in the first sentence conveys more emotion
+spell	Im afraid this <b>spells</b> trouble!	metaphoric	mean	Im afraid this <b>means</b> trouble!	literal	the focus word in the first sentence conveys more emotion
+match up	This idea <b>matches up</b> with the other one.	literal	square	This idea <b>squares</b> with the other one.	metaphoric	the focus words in the two sentences convey a similar degree of emotion
+twist	Dont <b>twist</b> my words.	metaphoric	misinterpret	Dont <b>misinterpret</b> my words.	literal	the focus word in the first sentence conveys more emotion
+wallow	You should <b>wallow</b> in your success!	metaphoric	delight	You should <b>delight</b> in your success!	literal	the focus word in the first sentence conveys more emotion

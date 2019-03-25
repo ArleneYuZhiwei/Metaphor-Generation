@@ -1,0 +1,461 @@
+focus_term	sense	updated_sentence	class	how_much_emotion_is_conveyed
+lie	lie#v#5	She <b>lied</b> when she told me she was only 29.	literal	the focus word conveys some emotion
+rip	rip#v#1	The curtain <b>ripped</b> from top to bottom.	literal	the focus word conveys no emotion
+fasten	fasten#v#3	They <b>fastened</b> various nicknames to each other.	metaphorical	the focus word conveys no emotion
+wrestle	wrestle#v#4	The children <b>wrestled</b> in the garden.	literal	the focus word conveys no emotion
+shake	shake#v#5	The bad news <b>shook</b> her hopes.	metaphorical	the focus word conveys some emotion
+recast	recast#v#2	The bell cracked and had to be <b>recast</b>.	literal	the focus word conveys no emotion
+blister	blister#v#2	The Senator <b>blistered</b> the administration in his speech on Friday.	metaphorical	the focus word conveys some emotion
+pierce	pierce#v#5	The needle <b>pierced</b> her flesh.	literal	the focus word conveys no emotion
+fracture	fracture#v#1	This writer really <b>fractures</b> the language.	metaphorical	the focus word conveys some emotion
+lock	lock#v#6	He was <b>locked</b> in a laughing fit.	metaphorical	the focus word conveys some emotion
+fracture	fracture#v#3	The pothole <b>fractured</b> a bolt on the axle.	literal	the focus word conveys no emotion
+gutter	gutter#v#2	Tears <b>guttered</b> down her face.	metaphorical	the focus word conveys some emotion
+lock	lock#v#7	She <b>locked</b> her jewels in the safe.	literal	the focus word conveys no emotion
+guard	guard#v#4	This vaccine will <b>guard</b> you against infection.	metaphorical	the focus word conveys no emotion
+splash	splash#v#1	She <b>splashed</b> the water around her.	literal	the focus word conveys no emotion
+boost	boost#v#5	The singer had to be <b>boosted</b> onto the stage by a special contraption.	literal	the focus word conveys no emotion
+design	design#v#7	She <b>designed</b> to go far in the world of business.	metaphorical	the focus word conveys some emotion
+ascend	ascend#v#6	The path <b>ascended</b> to the top of the hill.	literal	the focus word conveys no emotion
+ascend	ascend#v#5	The boat <b>ascended</b> the Delaware.	literal	the focus word conveys no emotion
+visit	visit#v#5	The principal <b>visited</b> his rage on the students.	metaphorical	the focus word conveys some emotion
+lock	lock#v#4	He <b>locked</b> his hands around her neck.	metaphorical	the focus word conveys no emotion
+exhaust	exhaust#v#3	One should not <b>exhaust</b> one's savings.	metaphorical	the focus word conveys no emotion
+fracture	fracture#v#2	These events could <b>fracture</b> the balance of power.	metaphorical	the focus word conveys some emotion
+fasten	fasten#v#2	This dress <b>fastens</b> in the back.	literal	the focus word conveys no emotion
+express	express#v#7	She <b>expressed</b> the letter to Florida.	literal	the focus word conveys no emotion
+splash	splash#v#5	Water was <b>splashing</b> on the floor.	literal	the focus word conveys no emotion
+uproot	uproot#v#1	The war <b>uprooted</b> many people.	metaphorical	the focus word conveys some emotion
+drain	drain#v#4	Life in the camp <b>drained</b> him.	metaphorical	the focus word conveys some emotion
+rip	rip#v#4	The candidate <b>ripped</b> into his opponent mercilessly.	metaphorical	the focus word conveys some emotion
+drain	drain#v#1	The rain water <b>drains</b> into this big vat.	literal	the focus word conveys no emotion
+splash	splash#v#3	The mother <b>splashed</b> the baby's face with water.	literal	the focus word conveys no emotion
+ruffle	ruffle#v#7	The bird <b>ruffled</b> its feathers.	literal	the focus word conveys no emotion
+shake	shake#v#8	<b>Shake</b> the salt out of the salt shaker.	literal	the focus word conveys no emotion
+talk	talk#v#1	Actions <b>talk</b> louder than words.	metaphorical	the focus word conveys no emotion
+blaze	blaze#v#4	The spaceship <b>blazed</b> out into space.	metaphorical	the focus word conveys no emotion
+sign	sign#v#7	"I don't know how to <b>sign</b>, so I could not communicate with my deaf cousin."	literal	the focus word conveys no emotion
+circulate	circulate#v#7	She <b>circulates</b> among royalty.	metaphorical	the focus word conveys no emotion
+visit	visit#v#8	He was <b>visited</b> with a terrible illness that killed him quickly.	metaphorical	the focus word conveys no emotion
+blister	blister#v#1	Her feet <b>blistered</b> during the long hike.	literal	the focus word conveys no emotion
+circulate	circulate#v#4	Blood <b>circulates</b> in my veins.	literal	the focus word conveys no emotion
+wrestle	wrestle#v#1	He <b>wrestled</b> all his life with his feeling of inferiority.	metaphorical	the focus word conveys some emotion
+tax	tax#v#3	You are <b>taxing</b> my patience.	metaphorical	the focus word conveys some emotion
+talk	talk#v#4	"If you don't oblige me, I'll <b>talk</b>!"	literal	the focus word conveys some emotion
+shed	shed#v#4	Our dog <b>sheds</b> every Spring.	literal	the focus word conveys no emotion
+talk	talk#v#2	She <b>talks</b> a lot of nonsense.	literal	the focus word conveys no emotion
+visit	visit#v#7	"Every summer, we <b>visited</b> our relatives in the country for a month."	literal	the focus word conveys no emotion
+fracture	fracture#v#4	The tibia <b>fractured</b> from the blow of the iron pipe.	literal	the focus word conveys no emotion
+blister	blister#v#3	The tight shoes and perspiration <b>blistered</b> her feet.	literal	the focus word conveys no emotion
+gutter	gutter#v#4	The roofer began to <b>gutter</b> the buildings.	literal	the focus word conveys no emotion
+lie	lie#v#6	The fate of Bosnia <b>lies</b> in the hands of the West.	metaphorical	the focus word conveys no emotion
+recast	recast#v#1	He was <b>recast</b> as Iago.	literal	the focus word conveys no emotion
+gather	gather#v#4	I <b>gather</b> you have not done your homework.	metaphorical	the focus word conveys no emotion
+gather	gather#v#8	Our ancestors <b>gathered</b> nuts in the Fall.	literal	the focus word conveys no emotion
+recapture	recapture#v#1	She could not <b>recapture</b> that feeling of happiness.	metaphorical	the focus word conveys some emotion
+drain	drain#v#2	The exercise class <b>drains</b> me of energy.	metaphorical	the focus word conveys some emotion
+abuse	abuse#v#1	This boss <b>abuses</b> his workers.	literal	the focus word conveys some emotion
+stoop	stoop#v#2	I won't <b>stoop</b> to reading other people's mail.	metaphorical	the focus word conveys some emotion
+stoop	stoop#v#3	The eagle <b>stooped</b> on the mice in the field.	literal	the focus word conveys no emotion
+cloud	cloud#v#6	The stroke <b>clouded</b> memories of her youth.	metaphorical	the focus word conveys some emotion
+sell	sell#v#3	The French try to <b>sell</b> us their image as great lovers.	metaphorical	the focus word conveys no emotion
+lock	lock#v#1	<b>Lock</b> the bike to the fence!	literal	the focus word conveys no emotion
+sign	sign#v#1	She <b>signed</b> the letter and sent it off.	literal	the focus word conveys no emotion
+circulate	circulate#v#3	This letter is being <b>circulated</b> among the faculty.	literal	the focus word conveys no emotion
+uproot	uproot#v#2	The vestiges of political democracy were soon <b>uprooted</b>.	metaphorical	the focus word conveys no emotion
+design	design#v#3	Chanel <b>designed</b> the famous suit.	literal	the focus word conveys no emotion
+design	design#v#5	Dupont <b>designs</b> for the house of Chanel.	literal	the focus word conveys no emotion
+sign	sign#v#3	He <b>signed</b> to play the casino on December 18.	literal	the focus word conveys no emotion
+ruffle	ruffle#v#9	The seamstress <b>ruffled</b> the curtain fabric.	literal	the focus word conveys no emotion
+pour	pour#v#4	Water <b>poured</b> all over the floor.	literal	the focus word conveys no emotion
+talk	talk#v#5	Be carefu l-- his secretary <b>talks</b>.	literal	the focus word conveys no emotion
+lie	lie#v#7	<b>Lie</b> down on the bed until you feel better.	literal	the focus word conveys no emotion
+pour	pour#v#1	They <b>poured</b> water over the floor.	literal	the focus word conveys no emotion
+express	express#v#5	Many of the laboratory animals <b>express</b> the trait.	metaphorical	the focus word conveys no emotion
+sign	sign#v#5	He <b>signed</b> his disapproval with a dismissive hand gesture.	metaphorical	the focus word conveys some emotion
+gather	gather#v#7	She <b>gathered</b> her shawl around her shoulders.	literal	the focus word conveys no emotion
+ascend	ascend#v#2	Inheritance may not <b>ascend</b> linearly.	metaphorical	the focus word conveys no emotion
+sell	sell#v#2	These books <b>sell</b> like hot cakes.	literal	the focus word conveys no emotion
+guard	guard#v#2	Please <b>guard</b> my possessions while I'm away.	literal	the focus word conveys some emotion
+visit	visit#v#2	Did you ever <b>visit</b> Paris?	literal	the focus word conveys no emotion
+shake	shake#v#7	I couldn't <b>shake</b> the car that was following me.	metaphorical	the focus word conveys no emotion
+recapture	recapture#v#4	They tried to <b>recapture</b> the escaped prisoner.	literal	the focus word conveys no emotion
+boost	boost#v#2	The tax cut will <b>boost</b> the economy.	metaphorical	the focus word conveys no emotion
+cloud	cloud#v#4	Their faces were <b>clouded</b> with sadness.	metaphorical	the focus word conveys some emotion
+ruffle	ruffle#v#2	She wanted to <b>ruffle</b> his composure.	metaphorical	the focus word conveys some emotion
+exhaust	exhaust#v#1	This kind of work <b>exhausts</b> me.	literal	the focus word conveys some emotion
+pierce	pierce#v#2	The cold <b>pierced</b> her bones.	metaphorical	the focus word conveys some emotion
+sell	sell#v#4	The brothers <b>sell</b> shoes.	literal	the focus word conveys no emotion
+blaze	blaze#v#3	The summer sun alone can cause a pine to <b>blaze</b>.	literal	the focus word conveys no emotion
+wrestle	wrestle#v#2	I <b>wrestled</b> with this decision for years.	metaphorical	the focus word conveys some emotion
+pierce	pierce#v#3	The scream <b>pierced</b> the night.	metaphorical	the focus word conveys no emotion
+shipwreck	shipwreck#v#3	They were <b>shipwrecked</b> in one of the mysteries at sea.	literal	the focus word conveys no emotion
+circulate	circulate#v#6	The fan <b>circulates</b> the air in the room.	literal	the focus word conveys no emotion
+cloud	cloud#v#2	The stars are obscured by the <b>clouds</b>.	literal	the focus word conveys no emotion
+recapture	recapture#v#3	The military forces managed to <b>recapture</b> the fort.	literal	the focus word conveys no emotion
+pour	pour#v#5	We <b>poured</b> money into the education of our children.	metaphorical	the focus word conveys no emotion
+penetrate	penetrate#v#1	The bullet <b>penetrated</b> her chest.	literal	the focus word conveys no emotion
+stagger	stagger#v#1	The drunken man <b>staggered</b> into the room.	literal	the focus word conveys no emotion
+guard	guard#v#1	There will be men <b>guarding</b> the horses.	literal	the focus word conveys no emotion
+lock	lock#v#5	They were <b>locked</b> in embrace.	metaphorical	the focus word conveys some emotion
+abuse	abuse#v#4	Her husband often <b>abuses</b> alcohol.	metaphorical	the focus word conveys some emotion
+waste	waste#v#1	He <b>wasted</b> his inheritance on his insincere friends.	metaphorical	the focus word conveys some emotion
+tax	tax#v#1	The State <b>taxes</b> alcohol heavily.	literal	the focus word conveys no emotion
+exhaust	exhaust#v#4	We have <b>exhausted</b> the food supplies.	metaphorical	the focus word conveys no emotion
+fasten	fasten#v#1	He <b>fastened</b> the lock onto the door.	literal	the focus word conveys no emotion
+talk	talk#v#6	She will <b>talk</b> at Rutgers next week.	literal	the focus word conveys no emotion
+stagger	stagger#v#4	She was <b>staggered</b> with bills after she tried to rebuild her house following the earthquake.	metaphorical	the focus word conveys some emotion
+talk	talk#v#3	The baby <b>talks</b> already.	literal	the focus word conveys no emotion
+penetrate	penetrate#v#5	The hikers did not manage to <b>penetrate</b> the dense forest.	metaphorical	the focus word conveys no emotion
+shipwreck	shipwreck#v#4	The vessel was <b>shipwrecked</b>.	literal	the focus word conveys no emotion
+shed	shed#v#1	He <b>shed</b> his image as a pushy boss.	metaphorical	the focus word conveys some emotion
+stoop	stoop#v#5	The old man was <b>stooping</b> but he could walk around without a cane.	literal	the focus word conveys no emotion
+waste	waste#v#3	We <b>waste</b> the dirty water by channeling it into the sewer.	literal	the focus word conveys some emotion
+rip	rip#v#2	The tornado <b>ripped</b> along the coast.	metaphorical	the focus word conveys some emotion
+shipwreck	shipwreck#v#1	You have <b>shipwrecked</b> my career.	metaphorical	the focus word conveys some emotion
+blaze	blaze#v#2	He <b>blazed</b> away at the men.	metaphorical	the focus word conveys some emotion
+drain	drain#v#3	We <b>drained</b> the oil tank.	literal	the focus word conveys no emotion
+recast	recast#v#3	She had to <b>recast</b> her image to please the electorate in her home state.	metaphorical	the focus word conveys no emotion
+peep	peep#v#5	The new moon <b>peeped</b> through the tree tops.	metaphorical	the focus word conveys no emotion
+splash	splash#v#4	The mountain was <b>splashed</b> with snow.	metaphorical	the focus word conveys no emotion
+ruffle	ruffle#v#4	This play is going to <b>ruffle</b> some people.	metaphorical	the focus word conveys some emotion
+uproot	uproot#v#3	They plan to <b>uproot</b> the vine that has spread all over the garden.	literal	the focus word conveys no emotion
+peep	peep#v#1	He <b>peeped</b> at the woman through the window.	literal	the focus word conveys some emotion
+ascend	ascend#v#1	We <b>ascended</b> the mountain.	literal	the focus word conveys no emotion
+stagger	stagger#v#2	He <b>staggered</b> along in the heavy snow.	literal	the focus word conveys no emotion
+pour	pour#v#2	People were <b>pouring</b> out of the theater.	metaphorical	the focus word conveys no emotion
+fuel	fuel#v#4	<b>fuel</b> the debate on creationism	metaphorical	the focus word conveys no emotion
+land	land#v#4	The drug smugglers <b>landed</b> the heroin on the beach of the island	literal	the focus word conveys no emotion
+color	color#v#1	The child <b>colored</b> the drawings	literal	the focus word conveys no emotion
+hunt	hunt#v#7	The King used to <b>hunt</b> these forests	literal	the focus word conveys no emotion
+answer	answer#v#2	<b>answer</b> the telephone	literal	the focus word conveys no emotion
+juggle	juggle#v#2	<b>juggle</b> an account so as to hide a deficit	metaphorical	the focus word conveys no emotion
+puff	puff#v#5	The critics <b>puffed</b> up this Broadway production	metaphorical	the focus word conveys some emotion
+tug	tug#v#2	She <b>tugged</b> for years to make a decent living	metaphorical	the focus word conveys no emotion
+clap	clap#v#4	The children were <b>clapping</b> to the music	literal	the focus word conveys no emotion
+buzz	buzz#v#2	Planes <b>buzzed</b> the crowds in the square	literal	the focus word conveys no emotion
+ferment	ferment#v#1	The Middle East is <b>fermenting</b>	metaphorical	the focus word conveys no emotion
+juggle	juggle#v#3	She had to <b>juggle</b> her job and her children	metaphorical	the focus word conveys no emotion
+rail	rail#v#5	fresh fruit are <b>railed</b> from Italy to Belgium	literal	the focus word conveys no emotion
+twist	twist#v#4	The cord is all <b>twisted</b>	literal	the focus word conveys no emotion
+convulse	convulse#v#5	The spasm <b>convulses</b> her facial muscles	literal	the focus word conveys no emotion
+gag	gag#v#4	The students were <b>gagging</b> during dinner	literal	the focus word conveys no emotion
+drift	drift#v#8	<b>drift</b> the cattle herds westwards	literal	the focus word conveys no emotion
+clap	clap#v#1	The judge <b>clapped</b> him in jail	metaphorical	the focus word conveys no emotion
+blur	blur#v#2	The haze <b>blurs</b> the hills	literal	the focus word conveys no emotion
+translate	translate#v#9	Can you <b>translate</b> the instructions in this manual for a layman?	literal	the focus word conveys no emotion
+drown	drown#v#3	The child <b>drowned</b> in the lake	literal	the focus word conveys no emotion
+suck	suck#v#3	The current boom in the economy <b>sucked</b> many workers in from abroad	metaphorical	the focus word conveys no emotion
+digest	digest#v#4	Protein <b>digests</b> in a few hours	literal	the focus word conveys no emotion
+devour	devour#v#2	She <b>devoured</b> his novels	metaphorical	the focus word conveys some emotion
+ferment	ferment#v#3	We <b>ferment</b> the grapes for a very long time to achieve high alcohol content	literal	the focus word conveys no emotion
+shower	shower#v#1	He was <b>showered</b> with praise	metaphorical	the focus word conveys no emotion
+push	push#v#2	He <b>pushed</b> her to finish her doctorate	metaphorical	the focus word conveys some emotion
+translate	translate#v#2	Braque <b>translated</b> collage into oil	metaphorical	the focus word conveys no emotion
+melt	melt#v#2	The sun <b>melted</b> the ice	literal	the focus word conveys no emotion
+grope	grope#v#1	She <b>groped</b> for her glasses in the darkness of the bedroom	literal	the focus word conveys no emotion
+dull	dull#v#2	the varnished table top <b>dulled</b> with time	literal	the focus word conveys no emotion
+lighten	lighten#v#2	she <b>lightened</b> the load on the tired donkey	literal	the focus word conveys no emotion
+relax	relax#v#1	He <b>relaxed</b> in the hot tub	literal	the focus word conveys some emotion
+engrave	engrave#v#2	The event <b>engraved</b> itself into her memory	metaphorical	the focus word conveys some emotion
+buy	buy#v#3	This sum will <b>buy</b> you a ride on the train	literal	the focus word conveys no emotion
+look	look#v#5	The house <b>looks</b> north	metaphorical	the focus word conveys no emotion
+crawl	crawl#v#1	The crocodile was <b>crawling</b> along the riverbed	literal	the focus word conveys no emotion
+reflect	reflect#v#5	her sunglasses <b>reflected</b> his image	literal	the focus word conveys no emotion
+explode	explode#v#1	We <b>exploded</b> the nuclear bomb	literal	the focus word conveys no emotion
+dawn	dawn#v#3	"It started to <b>dawn,</b> and we had to get up"	literal	the focus word conveys no emotion
+lighten	lighten#v#3	"after a glass of wine, he <b>lightened</b> up a bit"	metaphorical	the focus word conveys some emotion
+harmonize	harmonize#v#1	The colors don't <b>harmonize</b>	metaphorical	the focus word conveys no emotion
+tug	tug#v#6	Each oar was <b>tugged</b> by several men	literal	the focus word conveys no emotion
+infect	infect#v#1	Your children have <b>infected</b> you with this head cold	literal	the focus word conveys no emotion
+sow	sow#v#3	<b>sow</b> the ground with sunflower seeds	literal	the focus word conveys no emotion
+engrave	engrave#v#4	<b>engrave</b> the pen with the owner's name	literal	the focus word conveys no emotion
+crush	crush#v#8	The plastic bottle <b>crushed</b> against the wall	literal	the focus word conveys no emotion
+twist	twist#v#10	The wrestler <b>twisted</b> his shoulder	literal	the focus word conveys no emotion
+land	land#v#3	this may <b>land</b> you in jail	metaphorical	the focus word conveys no emotion
+engrave	engrave#v#1	<b>engraved</b> the trophy cupt with the winner's	literal	the focus word conveys no emotion
+flash	flash#v#4	The latest intelligence is <b>flashed</b> to all command posts	metaphorical	the focus word conveys no emotion
+cloud	cloud#v#6	The stroke <b>clouded</b> memories of her youth.	metaphorical	the focus word conveys some emotion
+fuel	fuel#v#3	The tanker <b>fueled</b> in Bahrain	literal	the focus word conveys no emotion
+poison	poison#v#1	<b>poison</b> someone's mind	metaphorical	the focus word conveys no emotion
+spell	spell#v#1	How do you <b>spell</b> this word?	literal	the focus word conveys no emotion
+mold	mold#v#4	She <b>molded</b> the rice balls carefully	literal	the focus word conveys no emotion
+sing	sing#v#4	the kettle was <b>singing</b>	metaphorical	the focus word conveys no emotion
+poison	poison#v#3	Her husband <b>poisoned</b> her drink in order to kill her	literal	the focus word conveys no emotion
+inject	inject#v#1	We <b>injected</b> the glucose into the patient's vein	literal	the focus word conveys no emotion
+melt	melt#v#6	her resistance <b>melted</b> under his charm	metaphorical	the focus word conveys some emotion
+sow	sow#v#1	She <b>sowed</b> sunflower seeds	literal	the focus word conveys no emotion
+juggle	juggle#v#5	the player <b>juggled</b> the ball	literal	the focus word conveys no emotion
+want	want#v#3	Your former neighbor is <b>wanted</b> by the FBI	literal	the focus word conveys no emotion
+push	push#v#9	The crowd <b>pushed</b> forward	literal	the focus word conveys no emotion
+wear	wear#v#3	He always <b>wears</b> a smile	metaphorical	the focus word conveys no emotion
+square	square#v#1	<b>square</b> the wood with a file	literal	the focus word conveys no emotion
+flash	flash#v#2	The headlines <b>flashed</b> on the screen	literal	the focus word conveys no emotion
+salute	salute#v#4	a terrible stench <b>saluted</b> our nostrils	metaphorical	the focus word conveys no emotion
+smash	smash#v#4	She <b>smashed</b> her car against the guard rail	literal	the focus word conveys no emotion
+flash	flash#v#1	The lights were <b>flashing</b>	literal	the focus word conveys no emotion
+level	level#v#2	The building was <b>levelled</b>	literal	the focus word conveys no emotion
+paste	paste#v#3	<b>paste</b> the wall with burlap	literal	the focus word conveys no emotion
+blur	blur#v#5	The fog <b>blurs</b> my vision	literal	the focus word conveys no emotion
+land	land#v#7	the enemy <b>landed</b> several of our aircraft	literal	the focus word conveys no emotion
+grab	grab#v#5	She <b>grabbed</b> the child's hand and ran out of the room	literal	the focus word conveys no emotion
+smash	smash#v#9	The police <b>smashed</b> the drug ring after they were tipped off	metaphorical	the focus word conveys no emotion
+gravitate	gravitate#v#3	The stars <b>gravitate</b> towards each other	literal	the focus word conveys no emotion
+swim	swim#v#1	We had to <b>swim</b> for 20 minutes to reach the shore	literal	the focus word conveys no emotion
+leak	leak#v#2	The news <b>leaked</b> out despite his secrecy	metaphorical	the focus word conveys no emotion
+want	want#v#5	<b>want</b> the strength to go on living	literal	the focus word conveys no emotion
+communicate	communicate#v#1	Please <b>communicate</b> this message to all employees	literal	the focus word conveys no emotion
+push	push#v#8	The guy hanging around the school is <b>pushing</b> drugs	metaphorical	the focus word conveys no emotion
+drift	drift#v#10	snow <b>drifting</b> several feet high	literal	the focus word conveys no emotion
+shower	shower#v#2	The guests <b>showered</b> rice on the couple	literal	the focus word conveys no emotion
+taste	taste#v#2	Can you <b>taste</b> the garlic?	literal	the focus word conveys no emotion
+grab	grab#v#3	The passenger <b>grabbed</b> for the oxygen mask	literal	the focus word conveys no emotion
+harmonize	harmonize#v#4	<b>harmonize</b> the different interests	literal	the focus word conveys no emotion
+deflate	deflate#v#5	<b>deflate</b> the currency	metaphorical	the focus word conveys no emotion
+crush	crush#v#2	<b>crush</b> an aluminum can	literal	the focus word conveys no emotion
+push	push#v#6	She is <b>pushing</b> fifty	metaphorical	the focus word conveys no emotion
+poison	poison#v#5	She <b>poisoned</b> her husband but he did not die	literal	the focus word conveys no emotion
+plunge	plunge#v#6	It <b>plunged</b> to the bottom of the well	literal	the focus word conveys no emotion
+salt	salt#v#2	the rebels had <b>salted</b> the fields with mines and traps	metaphorical	the focus word conveys no emotion
+breathe	breathe#v#3	He <b>breathed</b> new life into the old house	metaphorical	the focus word conveys some emotion
+swim	swim#v#3	my brain is <b>swimming</b> after the bottle of champagne	metaphorical	the focus word conveys no emotion
+square	square#v#4	He <b>squared</b> his shoulders	metaphorical	the focus word conveys no emotion
+poison	poison#v#2	She <b>poisoned</b> her husband	literal	the focus word conveys no emotion
+drown	drown#v#1	I was <b>drowned</b> in work	metaphorical	the focus word conveys some emotion
+line	line#v#6	<b>lined</b> books are more enduring	literal	the focus word conveys no emotion
+push	push#v#1	He <b>pushed</b> the table into a corner	literal	the focus word conveys no emotion
+mount	mount#v#7	<b>mount</b> a theater production	metaphorical	the focus word conveys no emotion
+reflect	reflect#v#4	Drive carefully--the wet road <b>reflects</b>	literal	the focus word conveys no emotion
+blast	blast#v#6	<b>blast</b> a tunnel through the Alps	literal	the focus word conveys no emotion
+gag	gag#v#1	The press was <b>gagged</b>	metaphorical	the focus word conveys no emotion
+dump	dump#v#4	The truck <b>dumped</b> the garbage in the street	literal	the focus word conveys no emotion
+salt	salt#v#4	people used to <b>salt</b> meats on ships	literal	the focus word conveys no emotion
+blast	blast#v#7	the gunman <b>blasted</b> away	literal	the focus word conveys no emotion
+crush	crush#v#4	The car <b>crushed</b> the toy	literal	the focus word conveys no emotion
+translate	translate#v#6	the growth in income <b>translates</b> into greater purchasing power	literal	the focus word conveys no emotion
+stagger	stagger#v#1	The drunken man <b>staggered</b> into the room.	literal	the focus word conveys no emotion
+climb	climb#v#5	This young man knows how to <b>climb</b> the social ladder	metaphorical	the focus word conveys no emotion
+whistle	whistle#v#3	She <b>whistled</b> a melody	literal	the focus word conveys no emotion
+fracture	fracture#v#4	The tibia <b>fractured</b> from the blow of the iron pipe.	literal	the focus word conveys no emotion
+flood	flood#v#2	The swollen river <b>flooded</b> the village	literal	the focus word conveys no emotion
+crown	crown#v#3	A weather vane <b>crowns</b> the building	metaphorical	the focus word conveys no emotion
+reflect	reflect#v#6	His lack of interest in the project <b>reflects</b> badly on him	metaphorical	the focus word conveys no emotion
+hack	hack#v#2	I can't <b>hack</b> it anymore	metaphorical	the focus word conveys some emotion
+clap	clap#v#5	the wings of the birds <b>clapped</b> loudly	literal	the focus word conveys no emotion
+ignite	ignite#v#3	The ostentatious way of living of the rich <b>ignites</b> the hatred of the poor	metaphorical	the focus word conveys some emotion
+dull	dull#v#5	Too much cutting <b>dulls</b> the knife's edge	literal	the focus word conveys no emotion
+look	look#v#1	She <b>looked</b> over the expanse of land	literal	the focus word conveys no emotion
+square	square#v#5	one idea <b>squares</b> with another	metaphorical	the focus word conveys no emotion
+rail	rail#v#4	<b>rail</b> off the crowds from the Presidential palace	literal	the focus word conveys no emotion
+glare	glare#v#1	The girl <b>glared</b> at the man who tried to make a pass at her	literal	the focus word conveys some emotion
+stagger	stagger#v#2	He <b>staggered</b> along in the heavy snow.	literal	the focus word conveys no emotion
+taste	taste#v#5	We <b>tasted</b> wines last night	literal	the focus word conveys no emotion
+rail	rail#v#6	They <b>railed</b> from Rome to Venice	literal	the focus word conveys no emotion
+relax	relax#v#7	The rules <b>relaxed</b> after the new director arrived	metaphorical	the focus word conveys no emotion
+back	back#v#9	Can you <b>back</b> up your claims?	literal	the focus word conveys no emotion
+glare	glare#v#3	The sun <b>glared</b> down on us	metaphorical	the focus word conveys no emotion
+nod	nod#v#2	The teacher <b>nodded</b> when the student gave the right answer	literal	the focus word conveys no emotion
+whistle	whistle#v#4	Her optimism <b>whistled</b> away these worries	metaphorical	the focus word conveys no emotion
+emerge	emerge#v#3	Some nice results <b>emerged</b> from the study	metaphorical	the focus word conveys no emotion
+communicate	communicate#v#4	The rooms <b>communicated</b>	metaphorical	the focus word conveys no emotion
+dull	dull#v#1	Age had <b>dulled</b> the surface	literal	the focus word conveys no emotion
+answer	answer#v#7	A few words would <b>answer</b>	literal	the focus word conveys no emotion
+lighten	lighten#v#5	The room <b>lightened</b> up	literal	the focus word conveys no emotion
+hunt	hunt#v#5	The oscillator <b>hunts</b> about the correct frequency	metaphorical	the focus word conveys no emotion
+suck	suck#v#1	<b>suck</b> the poison from the place where the snake bit	literal	the focus word conveys no emotion
+taste	taste#v#4	This <b>tastes</b> of nutmeg	literal	the focus word conveys no emotion
+inject	inject#v#2	He <b>injected</b> new life into the performance	metaphorical	the focus word conveys some emotion
+glow	glow#v#4	Make the people's hearts <b>glow</b>	metaphorical	the focus word conveys some emotion
+relax	relax#v#5	our new colleague <b>relaxed</b> when he saw that we were a friendly group	literal	the focus word conveys some emotion
+mount	mount#v#3	<b>mount</b> slides for macroscopic analysis	literal	the focus word conveys no emotion
+glow	glow#v#1	The fireflies were <b>glowing</b> and flying about in the garden	literal	the focus word conveys no emotion
+grab	grab#v#6	This story will <b>grab</b> you	metaphorical	the focus word conveys some emotion
+stumble	stumble#v#1	The drunk man <b>stumbled</b> about	literal	the focus word conveys no emotion
+crush	crush#v#5	She was <b>crushed</b> by his refusal of her invitation	metaphorical	the focus word conveys some emotion
+land	land#v#1	The bird <b>landed</b> on the highest branch	literal	the focus word conveys no emotion
+infect	infect#v#3	society was <b>infected</b> by racism	metaphorical	the focus word conveys no emotion
+drown	drown#v#4	He <b>drowned</b> the kittens	literal	the focus word conveys no emotion
+answer	answer#v#5	The defendant <b>answered</b> to all the charges of the prosecution	literal	the focus word conveys no emotion
+answer	answer#v#4	The question concerning the meaning of life cannot be <b>answered</b>	literal	the focus word conveys no emotion
+attack	attack#v#3	The Serbs <b>attacked</b> the village at night	literal	the focus word conveys no emotion
+map	map#v#1	<b>map</b> the surface of Venus	literal	the focus word conveys no emotion
+hack	hack#v#3	he <b>hacked</b> his way through the forest	literal	the focus word conveys no emotion
+buzz	buzz#v#1	bees were <b>buzzing</b> around the hive	literal	the focus word conveys no emotion
+shower	shower#v#5	He <b>showered</b> her with presents	metaphorical	the focus word conveys no emotion
+prick	prick#v#2	The needle <b>pricked</b> his skin	literal	the focus word conveys no emotion
+blast	blast#v#1	She tended to <b>blast</b> when speaking into a microphone	metaphorical	the focus word conveys no emotion
+incline	incline#v#3	She <b>inclined</b> her head to the student	literal	the focus word conveys no emotion
+communicate	communicate#v#5	He and his sons haven't <b>communicated</b> for years	literal	the focus word conveys no emotion
+emerge	emerge#v#4	He felt new emotions <b>emerge</b>	literal	the focus word conveys some emotion
+swim	swim#v#4	the meat was <b>swimming</b> in a fatty gravy	metaphorical	the focus word conveys no emotion
+puff	puff#v#8	he huffed and <b>puffed</b> as he made his way up the mountain	literal	the focus word conveys no emotion
+breathe	breathe#v#1	I can <b>breathe</b> better when the air is clean	literal	the focus word conveys no emotion
+poison	poison#v#4	This mushrooms can <b>poison</b>	literal	the focus word conveys no emotion
+bounce	bounce#v#1	The rubber ball <b>bounced</b>	literal	the focus word conveys no emotion
+digest	digest#v#5	the government <b>digested</b> the entire law into a code	metaphorical	the focus word conveys no emotion
+suck	suck#v#2	Mud was <b>sucking</b> at her feet	metaphorical	the focus word conveys no emotion
+land	land#v#6	The ship <b>landed</b> in Pearl Harbor	literal	the focus word conveys no emotion
+climb	climb#v#1	Did you ever <b>climb</b> up the hill behind your house?	literal	the focus word conveys no emotion
+spell	spell#v#3	He <b>spelled</b> the word wrong in this letter	literal	the focus word conveys no emotion
+sow	sow#v#2	<b>sow</b> suspicion or beliefs	metaphorical	the focus word conveys no emotion
+dump	dump#v#2	The company <b>dumped</b> him after many years of service	metaphorical	the focus word conveys no emotion
+want	want#v#4	I <b>want</b> you here at noon!	literal	the focus word conveys no emotion
+want	want#v#2	This piano <b>wants</b> the attention of a competent tuner	metaphorical	the focus word conveys some emotion
+salute	salute#v#6	"When the officers show up, the soldiers have to <b>salute</b>"	literal	the focus word conveys no emotion
+inject	inject#v#3	<b>inject</b> hydrogen into the balloon	literal	the focus word conveys no emotion
+buzz	buzz#v#3	This office is <b>buzzing</b> with activity	metaphorical	the focus word conveys some emotion
+crown	crown#v#1	The prince was <b>crowned</b> in Westminster Abbey	literal	the focus word conveys no emotion
+amount	amount#v#2	"The bills <b>amounted</b> to $2,000"	literal	the focus word conveys no emotion
+flood	flood#v#4	Our basement <b>flooded</b> during the heavy rains	literal	the focus word conveys no emotion
+map	map#v#5	sorrow was <b>mapped</b> on the mother's face	metaphorical	the focus word conveys no emotion
+float	float#v#3	He <b>floated</b> the logs down the river	literal	the focus word conveys no emotion
+sing	sing#v#3	The nightingale was <b>singing</b>	literal	the focus word conveys no emotion
+buzz	buzz#v#4	he <b>buzzed</b> the servant	metaphorical	the focus word conveys no emotion
+relax	relax#v#2	<b>relax</b> the tension on the rope	literal	the focus word conveys no emotion
+back	back#v#7	Which horse are you <b>backing?</b>	metaphorical	the focus word conveys no emotion
+digest	digest#v#1	I cannot <b>digest</b> milk products	literal	the focus word conveys no emotion
+melt	melt#v#1	The wax <b>melted</b> in the sun	literal	the focus word conveys no emotion
+capture	capture#v#4	This nucleus has <b>captured</b> the slow-moving neutrons	literal	the focus word conveys no emotion
+taste	taste#v#6	The ex-slave <b>tasted</b> freedom shortly before she died	metaphorical	the focus word conveys some emotion
+twist	twist#v#2	<b>twist</b> the dough into a braid	literal	the focus word conveys no emotion
+answer	answer#v#1	She didn't want to <b>answer</b>	literal	the focus word conveys no emotion
+map	map#v#2	We haven't even begun to <b>map</b> the many galaxies that we know exist	literal	the focus word conveys no emotion
+leak	leak#v#3	Water <b>leaked</b> out of the can into the backpack	literal	the focus word conveys no emotion
+mount	mount#v#1	They <b>mounted</b> the aerator on a floating	literal	the focus word conveys no emotion
+paste	paste#v#2	He <b>pasted</b> his opponent	metaphorical	the focus word conveys no emotion
+stagger	stagger#v#4	She was <b>staggered</b> with bills after she tried to rebuild her house following the earthquake.	metaphorical	the focus word conveys some emotion
+leak	leak#v#4	The container <b>leaked</b> gasoline	literal	the focus word conveys no emotion
+drift	drift#v#7	<b>drift</b> the boats downstream	literal	the focus word conveys no emotion
+ignite	ignite#v#1	Great heat can <b>ignite</b> almost any dry matter	literal	the focus word conveys no emotion
+float	float#v#5	The dancer <b>floated</b> across the stage	metaphorical	the focus word conveys some emotion
+hack	hack#v#6	I'm not very good at <b>hacking</b> but I'll give it my best	literal	the focus word conveys no emotion
+gag	gag#v#3	The burglars <b>gagged</b> the home owner and tied him to a chair	literal	the focus word conveys no emotion
+devour	devour#v#4	he <b>devoured</b> three sandwiches	literal	the focus word conveys no emotion
+stumble	stumble#v#2	She <b>stumbled</b> over the tree root	literal	the focus word conveys no emotion
+rail	rail#v#8	They are <b>railing</b> for fresh fish	metaphorical	the focus word conveys no emotion
+flow	flow#v#2	Water <b>flowed</b> into the cave	literal	the focus word conveys no emotion
+attack	attack#v#1	"Hitler <b>attacked</b> Poland on September 1, 1939 and started World War II"	literal	the focus word conveys no emotion
+stagger	stagger#v#3	The architect decided to <b>stagger</b> the chairs in the lecture hall.	literal	the focus word conveys no emotion
+look	look#v#9	You don't <b>look</b> your age!	literal	the focus word conveys no emotion
+deflate	deflate#v#2	<b>deflate</b> the air mattress	literal	the focus word conveys no emotion
+amount	amount#v#3	This idea will never <b>amount</b> to anything	metaphorical	the focus word conveys no emotion
+push	push#v#3	The salesman is aggressively <b>pushing</b> the new computer model	metaphorical	the focus word conveys no emotion
+nod	nod#v#5	The old man sat <b>nodding</b> by the fireplace	literal	the focus word conveys no emotion
+steamroller	steamroller#v#3	<b>steamroller</b> the road	literal	the focus word conveys no emotion
+dull	dull#v#7	Middle age <b>dulled</b> her appetite for travel	metaphorical	the focus word conveys some emotion
+wear	wear#v#9	What should I <b>wear</b> today?	literal	the focus word conveys no emotion
+nod	nod#v#4	the flowers were <b>nodding</b> in the breeze	metaphorical	the focus word conveys no emotion
+breathe	breathe#v#2	Every creature that <b>breathes</b>	literal	the focus word conveys no emotion
+convulse	convulse#v#1	The comedian <b>convulsed</b> the crowd	metaphorical	the focus word conveys some emotion
+suck	suck#v#7	The wetnurse <b>suckled</b> the infant	literal	the focus word conveys no emotion
+crawl	crawl#v#5	European children learn the breast stroke; they often don't know how to <b>crawl</b>	literal	the focus word conveys no emotion
+wallow	wallow#v#5	<b>wallow</b> in your success!	metaphorical	the focus word conveys some emotion
+emerge	emerge#v#1	"Suddenly, the proprietor <b>emerged</b> from his office"	literal	the focus word conveys no emotion
+mold	mold#v#5	The dress <b>molds</b> her beautiful figure	metaphorical	the focus word conveys no emotion
+bounce	bounce#v#5	He <b>bounced</b> to his feet	literal	the focus word conveys some emotion
+grope	grope#v#3	He made some sexual advances at the woman in his office and <b>groped</b> her repeatedly	literal	the focus word conveys some emotion
+cloud	cloud#v#2	The stars are obscured by the <b>clouds</b>.	literal	the focus word conveys no emotion
+deflate	deflate#v#6	The balloons <b>deflated</b>	literal	the focus word conveys no emotion
+capture	capture#v#1	<b>capture</b> the essence of Spring	metaphorical	the focus word conveys no emotion
+paste	paste#v#1	<b>paste</b> the sign on the wall	literal	the focus word conveys no emotion
+drink	drink#v#4	The mother <b>drinks</b> in every word of her son on the stage	metaphorical	the focus word conveys some emotion
+explode	explode#v#3	The boss <b>exploded</b> when he heard of the resignation of the secretary	metaphorical	the focus word conveys some emotion
+blast	blast#v#5	<b>blast</b> a passage through the mountain	literal	the focus word conveys no emotion
+push	push#v#7	The liberal party <b>pushed</b> for reforms	metaphorical	the focus word conveys no emotion
+glow	glow#v#3	The coals were <b>glowing</b> in the dark	literal	the focus word conveys no emotion
+look	look#v#3	The child <b>looks</b> unhappy	literal	the focus word conveys no emotion
+tug	tug#v#5	The horse finally <b>tugged</b> the cart out of the mud	literal	the focus word conveys no emotion
+translate	translate#v#1	I have to <b>translate</b> when my in-laws from Austria visit the U.S.	literal	the focus word conveys no emotion
+level	level#v#6	The ground <b>levelled</b> off	literal	the focus word conveys no emotion
+clap	clap#v#2	The big bird <b>clapped</b> its wings	literal	the focus word conveys no emotion
+push	push#v#5	she <b>pushed</b> against the wall with all her strength	literal	the focus word conveys no emotion
+level	level#v#1	<b>level</b> criticism or charges at somebody	metaphorical	the focus word conveys no emotion
+hunt	hunt#v#1	Goering often <b>hunted</b> wild boars in Poland	literal	the focus word conveys no emotion
+tug	tug#v#1	The prisoner <b>tugged</b> at the chains	literal	the focus word conveys no emotion
+climb	climb#v#3	Sales were <b>climbing</b> after prices were lowered	metaphorical	the focus word conveys no emotion
+drift	drift#v#4	stock prices are <b>drifting</b> higher	metaphorical	the focus word conveys no emotion
+tug	tug#v#3	The <b>tugboat</b> tugged the freighter into the harbor	literal	the focus word conveys no emotion
+spell	spell#v#2	I'm afraid this <b>spells</b> trouble!	metaphorical	the focus word conveys no emotion
+shower	shower#v#4	Meteors <b>showered</b> down over half of Australia	literal	the focus word conveys no emotion
+drown	drown#v#2	She <b>drowned</b> her trouble in alcohol	metaphorical	the focus word conveys some emotion
+prick	prick#v#3	The dog <b>pricked</b> up his ears	literal	the focus word conveys no emotion
+stumble	stumble#v#3	I <b>stumbled</b> across a long-lost cousin last night in a restaurant	metaphorical	the focus word conveys no emotion
+land	land#v#5	He <b>landed</b> several blows on his opponent's head	literal	the focus word conveys no emotion
+blur	blur#v#6	The distinction between the two theories <b>blurred</b>	metaphorical	the focus word conveys no emotion
+swell	swell#v#2	The mother was <b>swelling</b> with importance when she spoke of her son	metaphorical	the focus word conveys some emotion
+convulse	convulse#v#6	The muscles in her face <b>convulsed</b>	literal	the focus word conveys no emotion
+melt	melt#v#4	Hundreds of actors were <b>melting</b> into the scene	metaphorical	the focus word conveys no emotion
+explode	explode#v#5	The enemy <b>exploded</b> the bridge	literal	the focus word conveys no emotion
+level	level#v#5	I have to <b>level</b> with you	metaphorical	the focus word conveys no emotion
+color	color#v#2	My personal feelings <b>color</b> my judgment in this case	metaphorical	the focus word conveys no emotion
+steamroller	steamroller#v#2	The new teacher tends to <b>steamroller</b>	metaphorical	the focus word conveys no emotion
+hunt	hunt#v#2	The <b>hunters</b> traced the deer into the woods	literal	the focus word conveys no emotion
+shower	shower#v#3	You should <b>shower</b> after vigorous exercise	literal	the focus word conveys no emotion
+deflate	deflate#v#4	The new measures <b>deflated</b> the economy	metaphorical	the focus word conveys no emotion
+fracture	fracture#v#3	The pothole <b>fractured</b> a bolt on the axle.	literal	the focus word conveys no emotion
+bolt	bolt#v#1	She <b>bolted</b> from her seat	literal	the focus word conveys some emotion
+drink	drink#v#2	We were up <b>drinking</b> all night	literal	the focus word conveys no emotion
+answer	answer#v#10	The steering of my new car <b>answers</b> to the slightest touch	metaphorical	the focus word conveys no emotion
+sing	sing#v#2	She was <b>singing</b> while she was cooking	literal	the focus word conveys no emotion
+attack	attack#v#5	I <b>attacked</b> the problem as soon as I got out of bed	metaphorical	the focus word conveys some emotion
+land	land#v#2	the pilot managed to <b>land</b> the airplane safely	literal	the focus word conveys no emotion
+flow	flow#v#1	The crowd <b>flowed</b> out of the stadium	metaphorical	the focus word conveys no emotion
+look	look#v#4	We <b>looked</b> all day and finally found the child in the forest	literal	the focus word conveys no emotion
+swim	swim#v#5	this snake <b>swims</b> through the soil where it lives	literal	the focus word conveys no emotion
+salt	salt#v#3	She <b>salts</b> her lectures with jokes	metaphorical	the focus word conveys no emotion
+gravitate	gravitate#v#1	The conversation <b>gravitated</b> towards politics	metaphorical	the focus word conveys no emotion
+mold	mold#v#2	The furniture <b>molded</b> in the old house	literal	the focus word conveys no emotion
+flash	flash#v#8	A shooting star <b>flashed</b> and was gone	literal	the focus word conveys no emotion
+wear	wear#v#1	She was <b>wearing</b> yellow that day	literal	the focus word conveys no emotion
+bounce	bounce#v#7	The ex-boxer's job is to <b>bounce</b> people who want to enter this private club	metaphorical	the focus word conveys no emotion
+color	color#v#4	<b>color</b> the walls with paint in warm tones	literal	the focus word conveys no emotion
+swell	swell#v#6	The water <b>swells</b> the wood	literal	the focus word conveys no emotion
+fuel	fuel#v#1	"<b>fuel</b> aircraft, ships, and cars"	literal	the focus word conveys no emotion
+drink	drink#v#1	The patient must <b>drink</b> several liters each day	literal	the focus word conveys no emotion
+plunge	plunge#v#5	The professor <b>plunged</b> his students into the study of the Italian text	metaphorical	the focus word conveys no emotion
+salute	salute#v#2	I meet this men every day on my way to work and he <b>salutes</b> me	literal	the focus word conveys no emotion
+bolt	bolt#v#6	Don't <b>bolt</b> your food!	metaphorical	the focus word conveys no emotion
+drink	drink#v#5	The husband <b>drinks</b> and beats his wife	literal	the focus word conveys no emotion
+fracture	fracture#v#1	This writer really <b>fractures</b> the language.	metaphorical	the focus word conveys no emotion
+crawl	crawl#v#2	My skin <b>crawled--I</b> was terrified	metaphorical	the focus word conveys some emotion
+amount	amount#v#1	Her action <b>amounted</b> to a rebellion	literal	the focus word conveys no emotion
+prick	prick#v#6	The thought of her unhappiness <b>pricked</b> his conscience	metaphorical	the focus word conveys some emotion
+ignite	ignite#v#2	Marsh gases <b>ignited</b> suddenly	literal	the focus word conveys no emotion
+push	push#v#10	"`Now <b>push</b> hard,' said the doctor to the woman"	literal	the focus word conveys no emotion
+prick	prick#v#1	The nurse <b>pricked</b> my finger to get a small blood sample	literal	the focus word conveys no emotion
+reflect	reflect#v#7	The mess in his dorm room <b>reflects</b> on the student	metaphorical	the focus word conveys no emotion
+float	float#v#4	The Republicans are <b>floating</b> the idea of a tax reform	metaphorical	the focus word conveys no emotion
+crown	crown#v#2	The speech <b>crowned</b> the meeting	metaphorical	the focus word conveys no emotion
+wear	wear#v#5	<b>wear</b> one's hair in a certain way	literal	the focus word conveys no emotion
+devour	devour#v#1	Fire had <b>devoured</b> our home	metaphorical	the focus word conveys some emotion
+back	back#v#2	<b>back</b> into the driveway	literal	the focus word conveys no emotion
+gag	gag#v#5	he swallowed a fishbone and <b>gagged</b>	literal	the focus word conveys no emotion
+explode	explode#v#2	The champagne bottle <b>exploded</b>	literal	the focus word conveys no emotion
+flood	flood#v#3	<b>flood</b> the market with tennis shoes	metaphorical	the focus word conveys no emotion
+swell	swell#v#3	The bellies of the starving children are <b>swelling</b>	literal	the focus word conveys no emotion
+line	line#v#4	sorrow had <b>lined</b> his face	metaphorical	the focus word conveys no emotion
+wallow	wallow#v#2	pigs were <b>wallowing</b> in the mud	literal	the focus word conveys no emotion
+glare	glare#v#2	The moon <b>glared</b> back at itself from the lake's surface	metaphorical	the focus word conveys no emotion
+relax	relax#v#4	A hot bath always <b>relaxes</b> me	literal	the focus word conveys some emotion
+whistle	whistle#v#6	She <b>whistled</b> for her maid	literal	the focus word conveys no emotion
+rail	rail#v#7	hundreds of miles were <b>railed</b> out here	literal	the focus word conveys no emotion
+clap	clap#v#7	<b>clap</b> two boards together	literal	the focus word conveys no emotion
+buy	buy#v#5	I can't <b>buy</b> this story	metaphorical	the focus word conveys no emotion
+nod	nod#v#1	He <b>nodded</b> his approval	literal	the focus word conveys no emotion
+bolt	bolt#v#5	The listeners <b>bolted</b> when he discussed his strange ideas	literal	the focus word conveys no emotion
+dump	dump#v#1	No <b>dumping</b> in these woods!	literal	the focus word conveys no emotion
+communicate	communicate#v#2	He <b>communicated</b> his anxieties to the psychiatrist	literal	the focus word conveys no emotion
+want	want#v#1	I <b>want</b> to go home now	literal	the focus word conveys some emotion
+dawn	dawn#v#1	It <b>dawned</b> on him that she had betrayed him	metaphorical	the focus word conveys some emotion
+float	float#v#8	The government <b>floated</b> the ruble for a few months	metaphorical	the focus word conveys no emotion
+answer	answer#v#9	This may <b>answer</b> her needs	literal	the focus word conveys no emotion
+puff	puff#v#4	The sudden fame <b>puffed</b> her ego	metaphorical	the focus word conveys some emotion
+twist	twist#v#9	Don't <b>twist</b> my words	metaphorical	the focus word conveys some emotion
+puff	puff#v#7	Her faced <b>puffed</b> up from the drugs	literal	the focus word conveys no emotion
+breathe	breathe#v#4	Our new synthetic fabric <b>breathes</b> and is perfect for summer wear	metaphorical	the focus word conveys no emotion
+grope	grope#v#2	His mind <b>groped</b> to make the connection	metaphorical	the focus word conveys no emotion
+dawn	dawn#v#2	The age of computers had <b>dawned</b>	metaphorical	the focus word conveys no emotion
+incline	incline#v#6	Their language <b>inclines</b> us to believe them	metaphorical	the focus word conveys no emotion
+answer	answer#v#6	She must <b>answer</b> for her actions	literal	the focus word conveys some emotion
+back	back#v#4	<b>back</b> the car into the parking spot	literal	the focus word conveys no emotion
+smash	smash#v#8	The motorcycle <b>smashed</b> into the guard rail	literal	the focus word conveys no emotion
