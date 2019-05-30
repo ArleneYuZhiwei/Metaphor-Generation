@@ -1,4 +1,4 @@
-#Metaphor Generation
+# Metaphor Generation
 Codes for the NAACL 19 paper: How to Avoid Sentences Spelling Boring?
 Towards a Neural Approach to Unsupervised Metaphor Generation
 
